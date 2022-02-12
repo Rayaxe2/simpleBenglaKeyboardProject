@@ -16,10 +16,10 @@ namespace simpleBenglaKeyboardProject
         //To my understanding, the CreateParams object holds information/parameters that are/is used to build a control (e.g. a button of the form)
         //Such as it's size (height and width), possition and style (as can be seen in the class definiation). You can usually set these
         //properties via [control].property name, but in this case, we want to set something that we can't set with the control object.
-        //We're setting the "ExStyle" property to 0x08000000 (WS_EX_NOACTIVATE) so the window doesn't take focus from the application
-        //we want to type to. Wihtout this, when we click on a button on this application, the active window will be this application
-        //and the input we're trying to send when the button is clicked will be sent to to application, since it will be in focus. Clicking
-        //On the application we want to type to will put this applicaiton out of focus and to use this applicaiton we would need to click on
+        //We're overiding the CreateParams's constructor setting the "ExStyle" property to 0x08000000 (WS_EX_NOACTIVATE) so the window doesn't take
+        //focus from the application we want to type to. Wihtout this, when we click on a button on this application, the active window will be this
+        //application and the input we're trying to send when the button is clicked will be sent to to application, since it will be in focus.
+        //Clicking On the application we want to type to will put this applicaiton out of focus and to use this applicaiton we would need to click on
         //The input we want to type and that will put it back in focus and send the input to itself as it will be put back in focus before
         //The button's action is executed. Therefor we need this for the applicaiton to be created like an out of focus overlay that we
         //Can still interact with while another applicaiton is in focus.
@@ -28,6 +28,7 @@ namespace simpleBenglaKeyboardProject
         //https://docs.microsoft.com/en-gb/windows/win32/winmsg/window-styles?redirectedfrom=MSDN
         //https://docs.microsoft.com/en-gb/windows/win32/winmsg/window-class-styles?redirectedfrom=MSDN
         //https://stackoverflow.com/questions/156046/show-a-form-without-stealing-focus
+        //https://youtu.be/t8oVVPAOcZA?t=873
 
         //MS Docs: https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.control.createparams?view=windowsdesktop-6.0#:~:text=A%20CreateParams%20that%20contains%20the,to%20the%20control%20is%20created
         //Note: As stated in the MS docs:
@@ -50,7 +51,12 @@ namespace simpleBenglaKeyboardProject
         //If you want to modify the value, you have to do something with it. The property returns a CreateParams class.
         //You should modify the one the base class returns. 
         protected override CreateParams CreateParams {
-            get {
+            //Note: The protected access modifier give access to anything within the class it's declared int and lets objects
+            //of classes that inherited the class it's delcared in access it (objects of the class it declared it can't access it)
+            //The attributed can also be accessed within the classes that inherited it
+            //https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/protected
+            get
+            {
                 CreateParams param = base.CreateParams;
                 param.ExStyle |= 0x08000000;
                 // x|=y is basically x=x|(y) (x OR y) - so if x is 1001 (binary) and y is 0101 (binary) then x will equal 1101
@@ -60,12 +66,13 @@ namespace simpleBenglaKeyboardProject
                 //In C# 23 (010111) & 8 (001000) would be 0 (000000). 23 (010111) & 5 (000101) would be 5 (000101).
                 //https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/bitwise-and-shift-operators#compound-assignment
                 //https://stackoverflow.com/questions/6942477/what-does-single-pipe-equal-and-single-ampersand-equal-mean
-                return base.CreateParams;
+                return param;
             }
         }
         public Form1()
         {
             InitializeComponent();
+            this.TopMost = true; //Keeps the window/form on top/in the foreground, even if you click away from it
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -75,8 +82,7 @@ namespace simpleBenglaKeyboardProject
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.Activate();
-            SendKeys.Send("e");
+            SendKeys.Send("কঁ");
         }
     }
 }
