@@ -1,0 +1,5 @@
+C:\Users\Rayha\source\repos\simpleBenglaKeyboardProject\simpleBenglaKeyboardProject\bin\Release\net5.0-windows\publish\simpleBenglaKeyboardProject.exe
+C:\Users\Rayha\source\repos\simpleBenglaKeyboardProject\simpleBenglaKeyboardProject\bin\Release\net5.0-windows\publish\simpleBenglaKeyboardProject.dll
+C:\Users\Rayha\source\repos\simpleBenglaKeyboardProject\simpleBenglaKeyboardProject\bin\Release\net5.0-windows\publish\simpleBenglaKeyboardProject.deps.json
+C:\Users\Rayha\source\repos\simpleBenglaKeyboardProject\simpleBenglaKeyboardProject\bin\Release\net5.0-windows\publish\simpleBenglaKeyboardProject.runtimeconfig.json
+C:\Users\Rayha\source\repos\simpleBenglaKeyboardProject\simpleBenglaKeyboardProject\bin\Release\net5.0-windows\publish\simpleBenglaKeyboardProject.pdb
