@@ -10,7 +10,7 @@ Accomplishments:
 
 Plans:
 - Change layout
--- Make buttons bigger
+  - Make buttons bigger
 -- Get rid of redundancies, like the numbers - math is for the weak!
 -- Add buttons that mother may want to use
 -- Copy windows bangla keyboard layout maybe?
