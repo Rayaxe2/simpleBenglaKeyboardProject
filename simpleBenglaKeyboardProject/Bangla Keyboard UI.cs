@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace simpleBenglaKeyboardProject
 {
+    //Tutorial: https://www.youtube.com/watch?v=t8oVVPAOcZA
     public partial class Form1 : Form
     {
         //CreateParams isn't explained too well/in laymen's terms on the internet/on microsoft's online documentation.
@@ -73,6 +74,10 @@ namespace simpleBenglaKeyboardProject
         {
             InitializeComponent();
             this.TopMost = true; //Keeps the window/form on top/in the foreground, even if you click away from it
+
+            //Possitions keyboard at the bottom of the screen
+            this.StartPosition = FormStartPosition.Manual;
+            this.Location = new Point(Screen.PrimaryScreen.WorkingArea.Width - this.Width, Screen.PrimaryScreen.WorkingArea.Height - this.Height);
         }
 
         private void Form1_Load(object sender, EventArgs e)
