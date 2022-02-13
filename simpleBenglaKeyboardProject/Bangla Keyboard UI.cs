@@ -82,502 +82,498 @@ namespace simpleBenglaKeyboardProject
 
         private void shoonnoKey_Click(object sender, EventArgs e)
         {
-            SendKeys.Send("কঁ");
+            SendKeys.Send("০");
         }
 
         private void ekKey_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void button21_Click(object sender, EventArgs e)
-        {
-
+            SendKeys.Send("১");
         }
 
         private void duiKey_Click(object sender, EventArgs e)
         {
 
+            SendKeys.Send("২");
         }
 
         private void tinKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("৩");
         }
 
         private void chaaKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("৪");
         }
 
         private void paanchKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("৫");
         }
 
         private void chchoyKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("৬");
         }
 
         private void shatKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("৭");
         }
 
         private void atKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("৮");
         }
 
         private void noyKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("৯");
         }
 
         private void takaKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("৳");
         }
 
         private void zeroKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("0");
         }
 
         private void oneKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("1");
         }
 
         private void twoKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("2");
         }
 
         private void threeKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("3");
         }
 
         private void fourKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("4");
         }
 
         private void fiveKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("5");
         }
 
         private void sixKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("6");
         }
 
         private void sevenKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("7");
         }
 
         private void eightKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("8");
         }
 
         private void nineKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("9");
         }
 
         private void aKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("অ");
         }
 
         private void aaKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("আ");
         }
 
         private void iKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ই");
         }
 
         private void iiKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ঈ");
         }
 
         private void uKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("উ");
         }
 
         private void uuKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ঊ");
         }
 
         private void riKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ঋ");
         }
 
         private void riiKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ৠ");
         }
 
         private void liKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ঌ");
         }
 
         private void liiKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ৡ");
         }
 
         private void eKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("এ");
         }
 
         private void oiKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ঐ");
         }
 
         private void oKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ও");
         }
 
         private void ouKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ঔ");
         }
 
         private void koKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ক");
         }
 
         private void khoKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("খ");
         }
 
         private void goKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("গ");
         }
 
         private void ghoKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ঘ");
         }
 
         private void ngoKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ঙ");
         }
 
         private void backSpaceKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("{BACKSPACE}"); 
         }
 
         private void coKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("চ");
         }
 
         private void choKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ছ");
         }
 
         private void joKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("জ");
         }
 
         private void jhoKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ঝ");
         }
 
         private void nnooKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ঞ");
         }
 
         private void toKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ট");
         }
 
         private void thoKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ঠ");
         }
 
         private void doKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ড");
         }
 
         private void dhoKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ঢ");
         }
 
         private void noKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ণ");
         }
 
         private void ttoKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ত");
         }
 
         private void tthoKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("থ");
         }
 
         private void ddoKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("দ");
         }
 
         private void ddhoKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ধ");
         }
 
         private void nnoKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ন");
         }
 
         private void poKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("প");
         }
 
         private void phoKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ফ");
         }
 
         private void boKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ব");
         }
 
         private void bhoKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ভ");
         }
 
         private void moKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ম");
         }
 
         private void yyoKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("য");
         }
 
         private void rroKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("র");
         }
 
         private void loKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ল");
         }
 
         private void ssoKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("শ");
         }
 
         private void soKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ষ");
         }
 
         private void ssooKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("স");
         }
 
         private void hoKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("হ");
         }
 
         private void yoKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("য়");
         }
 
         private void roKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ড়");
         }
 
         private void rhoKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ঢ়");
         }
 
         private void raKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ৰ");
         }
 
         private void raaKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ৱ");
         }
 
         private void anusvaraModKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ং");
         }
 
         private void visargaModKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ঃ");
         }
 
         private void aaVowelSignModKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("া");
         }
 
         private void signTwoModKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ী");
         }
 
         private void signOneModKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ি");
         }
 
         private void eSignModKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ে");
         }
 
         private void aiSignModKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ৈ");
         }
 
         private void oSignModKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ো");
         }
 
         private void auSignModKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ৌ");
         }
 
         private void auTwoModKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ৗ");
         }
 
         private void candravinduSignModKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ঁ");
         }
 
         private void naktaSignModKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("়");
         }
 
         private void vimraSignModKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("্");
         }
 
         private void uSignModKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ু");
         }
 
         private void uuSignModKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ূ");
         }
 
         private void rSoundModKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ৃ");
         }
 
         private void rrSignModKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ৄ");
         }
 
         private void lSignModKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ৢ");
         }
 
         private void llSignModKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ৣ");
         }
 
         private void spaceKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send(" "); 
         }
 
         private void taKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ৎ");
         }
 
         private void avagrahaKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("ঽ");
         }
 
         private void commaKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send(",");
         }
 
         private void fullStopKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send(".");
         }
 
         private void questionMarkKey_Click(object sender, EventArgs e)
         {
-
+            SendKeys.Send("?");
         }
 
         private void closeKey_Click(object sender, EventArgs e)
         {
-
+            Application.Exit();
         }
     }
 }
