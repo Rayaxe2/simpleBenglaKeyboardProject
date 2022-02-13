@@ -90,7 +90,7 @@ namespace simpleBenglaKeyboardProject
             this.StartPosition = FormStartPosition.Manual;
             //this.Location = new Point(Screen.PrimaryScreen.WorkingArea.Width - this.Width, Screen.PrimaryScreen.WorkingArea.Height - this.Height); //If task bar is at the bottom, this puts it above the task bar
             this.Location = new Point(Screen.PrimaryScreen.WorkingArea.Width - this.Width, Screen.PrimaryScreen.Bounds.Height - this.Height); //This puts it right at the bottom, where the taskbar starts by default
-
+            //this.Location = new Point(Screen.AllScreens[2].WorkingArea.Width - this.Width, Screen.AllScreens[2].Bounds.Height - this.Height); //This puts it right at the bottom, where the taskbar starts by default
             //Array of Junktos from https://writebangla.com/juktoborno.html
             string[] junktoArray = { "ক্ক = ক+ক ", "ক্ট = ক+ট ", "ক্ট্র = ক+ট+র ", "ক্ত = ক+ত ", "ক্ত্র = ক+ত+র ", "ক্ব = ক+ব ", "ক্ম = ক+ম ", "ক্য = ক+য ", "ক্র = ক+র  ", "ক্ল = ক+ল ", "ক্ষ = ক+ষ ", "ক্ষ্ণ = ক+ষ+ণ ", "ক্ষ্ব = ক+ষ+ব ", "ক্ষ্ম = ক+ষ+ম ", "ক্ষ্ম্য=ক+ষ+ম+য ", "ক্ষ্য = ক+ষ+য ", "ক্স = ক+স ", "খ্য = খ+য ", "খ্র = খ+ র ", "গ্‌ণ = গ+ণ ", "গ্ধ = গ+ধ ", "গ্ধ্য = গ+ধ+য ", "গ্ধ্র = গ+ধ+র ", "গ্ন = গ+ন ", "গ্ন্য = গ+ন+য ", "গ্ব = গ+ব ", "গ্ম = গ+ম ", "গ্য = গ+য ", "গ্র = গ+র ", "গ্র্য = গ+র+য ", "গ্ল = গ+ল ", "ঘ্ন = ঘ+ন ", "ঘ্য = ঘ+য ", "ঘ্র = ঘ+র ", "ঙ্ক = ঙ+ক ", "ঙ্‌ক্ত = ঙ+ক+ত", "ঙ্ক্য = ঙ+ক+য ", "ঙ্ক্ষ = ঙ+ক+ষ ", "ঙ্খ = ঙ+খ ", "ঙ্গ = ঙ+গ ", "ঙ্গ্য = ঙ+গ+য ", "ঙ্ঘ = ঙ+ঘ ", "ঙ্ঘ্য = ঙ+ঘ+য ", "ঙ্ঘ্র = ঙ+ঘ+র ", "ঙ্ম = ঙ+ম ", "চ্চ = চ+চ ", "চ্ছ = চ+ছ ", "চ্ছ্ব = চ+ছ+ব ", "চ্ছ্র = চ+ছ+র ", "চ্ঞ = চ+ঞ ", "চ্ব = চ+ব ", "চ্য = চ+য ", "জ্জ = জ+জ ", "জ্জ্ব = জ+জ+ব ", "জ্ঝ = জ+ঝ ", "জ্ঞ = জ+ঞ ", "জ্ব = জ+ব ", "জ্য = জ+য ", "জ্র = জ+র ", "ঞ্চ = ঞ+চ ", "ঞ্ছ = ঞ+ছ ", "ঞ্জ = ঞ+জ ", "ঞ্ঝ = ঞ+ঝ ", "ট্ট = ট+ট ", "ট্ব = ট+ব ", "ট্ম = ট+ম ", "ট্য = ট+য ", "ট্র = ট+র ", "ড্ড = ড+ড  ", "ড্ব = ড+ব ", "ড্য = ড+য ", "ড্র = ড+র ", "ড়্গ = ড়+গ ", "ঢ্য = ঢ+য ", "ঢ্র = ঢ+র ", "ণ্ট = ণ+ট ", "ণ্ঠ = ণ+ঠ ", "ণ্ঠ্য = ণ+ঠ+য ", "ণ্ড = ণ+ড ", "ণ্ড্য = ণ+ড+য ", "ণ্ড্র = ণ+ড+র ", "ণ্ঢ = ণ+ঢ ", "ণ্ণ = ণ+ণ ", "ণ্ব = ণ+ব ", "ণ্ম = ণ+ম ", "ণ্য = ণ+য ", "ৎক = ত+ক ", "ত্ত = ত+ত ", "ত্ত্ব = ত+ত+ব ", "ত্ত্য = ত+ত+য ", "ত্থ = ত+থ ", "ত্ন = ত+ন ", "ত্ব = ত+ব ", "ত্ম = ত+ম ", "ত্ম্য = ত+ম+য ", "ত্য = ত+য ", "ত্র = ত+র ", "ত্র্য = ত+র+য ", "ৎল = ত+ল ", "ৎস = ত+স ", "থ্ব = থ+ব ", "থ্য = থ+য ", "থ্র = থ+র ", "দ্গ = দ+গ ", "দ্ঘ = দ+ঘ ", "দ্দ = দ+দ ", "দ্দ্ব = দ+দ+ব ", "দ্ধ = দ+ধ ", "দ্ব = দ+ব ", "দ্ভ = দ+ভ ", "দ্ভ্র = দ+ভ+র ", "দ্ম = দ+ম ", "দ্য = দ+য ", "দ্র = দ+র ", "দ্র্য = দ+র+য ", "ধ্ন = ধ+ন ", "ধ্ব = ধ+ব ", "ধ্ম = ধ+ম ", "ধ্য = ধ+য ", "ধ্র = ধ+র ", "ন্ট = ন+ট ", "ন্ট্র = ন+ট+র ", "ন্ঠ = ন+ঠ ", "ন্ড = ন+ড ", "ন্ড্র = ন+ড+র ", "ন্ত = ন+ত ", "ন্ত্ব = ন+ত+ব ", "ন্ত্য = ন+ত+য ", "ন্ত্র = ন+ত+র ", "ন্ত্র্য =ন+ত+র+য ", "ন্থ = ন+থ ", "ন্থ্র = ন+থ+র ", "ন্দ = ন+দ ", "ন্দ্য = ন+দ+য ", "ন্দ্ব = ন+দ+ব ", "ন্দ্র = ন+দ+র ", "ন্ধ = ন+ধ ", "ন্ধ্য = ন+ধ+য ", "ন্ধ্র = ন+ধ+র ", "ন্ন = ন+ন ", "ন্ব = ন+ব ", "ন্ম = ন+ম ", "ন্য = ন+য ", "প্ট = প+ট ", "প্ত = প+ত ", "প্ন = প+ন ", "প্প = প+প ", "প্য = প+য ", "প্র = প+র ", "প্র্য = প+র+য ", "প্ল = প+ল ", "প্স = প+স ", "ফ্র = ফ+র ", "ফ্ল = ফ+ল ", "ব্জ = ব+জ ", "ব্দ = ব+দ ", "ব্ধ = ব+ধ ", "ব্ব = ব+ব ", "ব্য = ব+য ", "ব্র = ব+র ", "ব্ল = ব+ল ", "ভ্ব =ভ+ব ", "ভ্য = ভ+য ", "ভ্র = ভ+র ", "ম্ন = ম+ন ", "ম্প = ম+প ", "ম্প্র = ম+প+র ", "ম্ফ = ম+ফ ", "ম্ব = ম+ব ", "ম্ব্র = ম+ব+র  ", "ম্ভ = ম+ভ ", "ম্ভ্র = ম+ভ+র ", "ম্ম = ম+ম ", "ম্য = ম+য ", "ম্র = ম+র ", "ম্ল = ম+ল ", "য্য = য+য ", "র্ক = র+ক ", "র্ক্য = র+ক+য ", "র্গ্য = র+গ+য ", "র্ঘ্য = র+ঘ+য ", "র্চ্য = র+চ+য ", "র্জ্য = র+জ+য ", "র্ণ্য = র+ণ+য ", "র্ত্য = র+ত+য ", "র্থ্য = র+থ+য ", "র্ব্য = র+ব+য ", "র্ম্য = র+ম+য ", "র্শ্য = র+শ+য ", "র্ষ্য = র+ষ+য ", "র্হ্য = র+হ+য ", "র্খ = র+খ ", "র্গ = র+গ ", "র্গ্র = র+গ+র ", "র্ঘ = র+ঘ ", "র্চ = র+চ ", "র্ছ = র+ছ ", "র্জ = র+জ ", "র্ঝ = র+ঝ ", "র্ট = র+ট ", "র্ড = র+ড ", "র্ণ = র+ণ ", "র্ত = র+ত ", "র্ত্র = র+ত+র ", "র্থ = র+থ ", "র্দ = র+দ ", "র্দ্ব = র+দ+ব ", "র্দ্র = র+দ+র ", "র্ধ = র+ধ ", "র্ধ্ব = র+ধ+ব ", "র্ন = র+ন ", "র্প = র+প ", "র্ফ = র+ফ ", "র্ভ = র+ভ ", "র্ম = র+ম ", "র্য = র+য ", "র্ল = র+ল ", "র্শ = র+শ ", "র্শ্ব = র+ শ+ব ", "র্ষ = র+ষ ", "র্স = র+স ", "র্হ = র+হ ", "র্ঢ্য = র+ঢ+য ", "ল্ক = ল+ক", "ল্ক্য = ল+ক+য ", "ল্গ = ল+গ ", "ল্ট = ল+ট ", "ল্ড = ল+ড ", "ল্প = ল+প ", "ল্‌ফ = ল+ফ ", "ল্ব = ল+ব ", "ল্‌ভ = ল+ভ ", "ল্ম = ল+ম ", "ল্য = ল+য ", "ল্ল = ল+ল ", "শ্চ = শ+চ ", "শ্ছ = শ+ছ ", "শ্ন = শ+ন ", "শ্ব = শ+ব ", "শ্ম = শ+ম ", "শ্য = শ+য ", "শ্র = শ+র ", "শ্ল = শ+ল ", "ষ্ক = ষ+ক ", "ষ্ক্র = ষ+ক+র ", "ষ্ট = ষ+ট ", "ষ্ট্য = ষ+ট+য ", "ষ্ট্র = ষ+ট+র ", "ষ্ঠ = ষ+ঠ ", "ষ্ঠ্য = ষ+ঠ+য ", "ষ্ণ = ষ+ণ ", "ষ্প = ষ+প ", "ষ্প্র = ষ+প+র ", "ষ্ফ = ষ+ফ ", "ষ্ব = ষ+ব ", "ষ্ম = ষ+ম ", "ষ্য = ষ+য ", "স্ক = স+ক  ", "স্ক্র = স+ক্র ", "স্খ = স+খ", "স্ট = স+ট ", "স্ট্র = স+ট্র ", "স্ত = স+ত ", "স্ত্ব = স+ত+ব ", "স্ত্য = স+ত+য ", "স্ত্র = স+ত+র ", "স্থ = স+থ ", "স্থ্য = স+থ+য ", "স্ন = স+ন ", "স্প = স+প ", "স্প্র = স+প +র ", "স্প্‌ল = স+প+ল ", "স্ফ = স+ফ ", "স্ব = স+ব ", "স্ম = স+ম ", "স্য = স+য ", "স্র = স+র ", "স্ল = স+ল ", "হ্ণ = হ+ণ ", "হ্ন = হ+ন ", "হ্ব = হ+ব ", "হ্ম = হ+ম ", "হ্য = হ+য ", "হ্র = হ+র ", "হ্ল = হ+ল ", "হৃ = হ+ৃ  " };
             //Spliting array of junktos into logical self-created structure 
@@ -159,13 +159,14 @@ namespace simpleBenglaKeyboardProject
                 {
                     counter += 1;
                     juktoSugguestionBtn = new Button();
-                    juktoSugguestionBtn.Font = new Font(juktoSugguestionBtn.Font.Name, 16);
+                    juktoSugguestionBtn.Font = new Font(juktoSugguestionBtn.Font.Name, 10, FontStyle.Bold);
                     juktoSugguestionBtn.Name = "Sugguestion_" + counter;
                     juktoSugguestionBtn.Size = new Size(60, 60);
                     juktoSugguestionBtn.Location = new Point((xLocation + xPosIncrement), 0);
                     xLocation += xPosIncrement;
                     juktoSugguestionBtn.Text = banglaCharSuggestion;
-                    juktoSugguestionBtn.BackColor = Color.Crimson;
+                    juktoSugguestionBtn.BackColor = Color.FromArgb(64, 0, 64); //Color.Crimson;
+                    juktoSugguestionBtn.ForeColor = Color.White;
                     juktoSugguestionBtn.Visible = true;
                     juktoSugguestionBtn.Click += new EventHandler(
                         (s, e) =>
@@ -413,8 +414,10 @@ namespace simpleBenglaKeyboardProject
 
         private void backSpaceKey_Click(object sender, EventArgs e)
         {
-            currentCombo = currentCombo.Remove(currentCombo.Length - 1, 1);
-            SendKeys.Send("{BACKSPACE}"); 
+            if (currentCombo.Length != 0) {
+                currentCombo = currentCombo.Remove(currentCombo.Length - 1, 1);
+            }
+            SendKeys.Send("{BACKSPACE}");
         }
 
         private void coKey_Click(object sender, EventArgs e)

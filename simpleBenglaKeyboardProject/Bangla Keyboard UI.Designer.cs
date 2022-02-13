@@ -138,7 +138,7 @@ namespace simpleBenglaKeyboardProject
             this.ttoKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.ttoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.ttoKey.ForeColor = System.Drawing.Color.Black;
-            this.ttoKey.Location = new System.Drawing.Point(610, 164);
+            this.ttoKey.Location = new System.Drawing.Point(610, 166);
             this.ttoKey.Name = "ttoKey";
             this.ttoKey.Size = new System.Drawing.Size(60, 60);
             this.ttoKey.TabIndex = 152;
@@ -151,7 +151,7 @@ namespace simpleBenglaKeyboardProject
             this.ddhoKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.ddhoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.ddhoKey.ForeColor = System.Drawing.Color.Black;
-            this.ddhoKey.Location = new System.Drawing.Point(793, 164);
+            this.ddhoKey.Location = new System.Drawing.Point(793, 166);
             this.ddhoKey.Name = "ddhoKey";
             this.ddhoKey.Size = new System.Drawing.Size(60, 60);
             this.ddhoKey.TabIndex = 164;
@@ -163,7 +163,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.visargaModKey.BackColor = System.Drawing.Color.YellowGreen;
             this.visargaModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.visargaModKey.Location = new System.Drawing.Point(732, 225);
+            this.visargaModKey.Location = new System.Drawing.Point(732, 227);
             this.visargaModKey.Name = "visargaModKey";
             this.visargaModKey.Size = new System.Drawing.Size(60, 60);
             this.visargaModKey.TabIndex = 166;
@@ -175,7 +175,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.riiKey.BackColor = System.Drawing.Color.Yellow;
             this.riiKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.riiKey.Location = new System.Drawing.Point(427, 103);
+            this.riiKey.Location = new System.Drawing.Point(427, 105);
             this.riiKey.Name = "riiKey";
             this.riiKey.Size = new System.Drawing.Size(60, 60);
             this.riiKey.TabIndex = 179;
@@ -187,7 +187,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.signOneModKey.BackColor = System.Drawing.Color.YellowGreen;
             this.signOneModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.signOneModKey.Location = new System.Drawing.Point(915, 225);
+            this.signOneModKey.Location = new System.Drawing.Point(915, 227);
             this.signOneModKey.Name = "signOneModKey";
             this.signOneModKey.Size = new System.Drawing.Size(60, 60);
             this.signOneModKey.TabIndex = 172;
@@ -200,7 +200,7 @@ namespace simpleBenglaKeyboardProject
             this.raKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.raKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.raKey.ForeColor = System.Drawing.Color.Black;
-            this.raKey.Location = new System.Drawing.Point(549, 225);
+            this.raKey.Location = new System.Drawing.Point(549, 227);
             this.raKey.Name = "raKey";
             this.raKey.Size = new System.Drawing.Size(60, 60);
             this.raKey.TabIndex = 150;
@@ -212,7 +212,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.uKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             this.uKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.uKey.Location = new System.Drawing.Point(244, 103);
+            this.uKey.Location = new System.Drawing.Point(244, 105);
             this.uKey.Name = "uKey";
             this.uKey.Size = new System.Drawing.Size(60, 60);
             this.uKey.TabIndex = 143;
@@ -225,7 +225,7 @@ namespace simpleBenglaKeyboardProject
             this.rroKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.rroKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.rroKey.ForeColor = System.Drawing.Color.Black;
-            this.rroKey.Location = new System.Drawing.Point(0, 225);
+            this.rroKey.Location = new System.Drawing.Point(0, 227);
             this.rroKey.Name = "rroKey";
             this.rroKey.Size = new System.Drawing.Size(60, 60);
             this.rroKey.TabIndex = 191;
@@ -237,7 +237,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.eKey.BackColor = System.Drawing.Color.LightYellow;
             this.eKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.eKey.Location = new System.Drawing.Point(610, 103);
+            this.eKey.Location = new System.Drawing.Point(610, 105);
             this.eKey.Name = "eKey";
             this.eKey.Size = new System.Drawing.Size(60, 60);
             this.eKey.TabIndex = 161;
@@ -250,7 +250,7 @@ namespace simpleBenglaKeyboardProject
             this.llSignModKey.BackColor = System.Drawing.Color.Pink;
             this.llSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.llSignModKey.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.llSignModKey.Location = new System.Drawing.Point(488, 286);
+            this.llSignModKey.Location = new System.Drawing.Point(488, 288);
             this.llSignModKey.Name = "llSignModKey";
             this.llSignModKey.Size = new System.Drawing.Size(60, 60);
             this.llSignModKey.TabIndex = 214;
@@ -263,7 +263,7 @@ namespace simpleBenglaKeyboardProject
             this.ssoKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.ssoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.ssoKey.ForeColor = System.Drawing.Color.Black;
-            this.ssoKey.Location = new System.Drawing.Point(122, 225);
+            this.ssoKey.Location = new System.Drawing.Point(122, 227);
             this.ssoKey.Name = "ssoKey";
             this.ssoKey.Size = new System.Drawing.Size(60, 60);
             this.ssoKey.TabIndex = 200;
@@ -275,7 +275,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.bhoKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.bhoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.bhoKey.Location = new System.Drawing.Point(1098, 164);
+            this.bhoKey.Location = new System.Drawing.Point(1098, 166);
             this.bhoKey.Name = "bhoKey";
             this.bhoKey.Size = new System.Drawing.Size(60, 60);
             this.bhoKey.TabIndex = 180;
@@ -288,7 +288,7 @@ namespace simpleBenglaKeyboardProject
             this.shoonnoKey.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.shoonnoKey.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.shoonnoKey.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.shoonnoKey.Location = new System.Drawing.Point(0, 62);
+            this.shoonnoKey.Location = new System.Drawing.Point(0, 64);
             this.shoonnoKey.Name = "shoonnoKey";
             this.shoonnoKey.Size = new System.Drawing.Size(60, 40);
             this.shoonnoKey.TabIndex = 218;
@@ -301,7 +301,7 @@ namespace simpleBenglaKeyboardProject
             this.fiveKey.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.fiveKey.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.fiveKey.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.fiveKey.Location = new System.Drawing.Point(976, 62);
+            this.fiveKey.Location = new System.Drawing.Point(976, 64);
             this.fiveKey.Name = "fiveKey";
             this.fiveKey.Size = new System.Drawing.Size(60, 40);
             this.fiveKey.TabIndex = 209;
@@ -313,7 +313,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.ngoKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.ngoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.ngoKey.Location = new System.Drawing.Point(1098, 103);
+            this.ngoKey.Location = new System.Drawing.Point(1098, 105);
             this.ngoKey.Name = "ngoKey";
             this.ngoKey.Size = new System.Drawing.Size(60, 60);
             this.ngoKey.TabIndex = 189;
@@ -325,7 +325,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.riKey.BackColor = System.Drawing.Color.Yellow;
             this.riKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.riKey.Location = new System.Drawing.Point(366, 103);
+            this.riKey.Location = new System.Drawing.Point(366, 105);
             this.riKey.Name = "riKey";
             this.riKey.Size = new System.Drawing.Size(60, 60);
             this.riKey.TabIndex = 151;
@@ -337,7 +337,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.ouKey.BackColor = System.Drawing.Color.LightYellow;
             this.ouKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.ouKey.Location = new System.Drawing.Point(793, 103);
+            this.ouKey.Location = new System.Drawing.Point(793, 105);
             this.ouKey.Name = "ouKey";
             this.ouKey.Size = new System.Drawing.Size(60, 60);
             this.ouKey.TabIndex = 171;
@@ -350,7 +350,7 @@ namespace simpleBenglaKeyboardProject
             this.threeKey.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.threeKey.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.threeKey.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.threeKey.Location = new System.Drawing.Point(854, 62);
+            this.threeKey.Location = new System.Drawing.Point(854, 64);
             this.threeKey.Name = "threeKey";
             this.threeKey.Size = new System.Drawing.Size(60, 40);
             this.threeKey.TabIndex = 207;
@@ -362,7 +362,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.toKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.toKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.toKey.Location = new System.Drawing.Point(305, 164);
+            this.toKey.Location = new System.Drawing.Point(305, 166);
             this.toKey.Name = "toKey";
             this.toKey.Size = new System.Drawing.Size(60, 60);
             this.toKey.TabIndex = 129;
@@ -375,7 +375,7 @@ namespace simpleBenglaKeyboardProject
             this.eightKey.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.eightKey.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.eightKey.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.eightKey.Location = new System.Drawing.Point(1159, 62);
+            this.eightKey.Location = new System.Drawing.Point(1159, 64);
             this.eightKey.Name = "eightKey";
             this.eightKey.Size = new System.Drawing.Size(60, 40);
             this.eightKey.TabIndex = 212;
@@ -388,7 +388,7 @@ namespace simpleBenglaKeyboardProject
             this.closeKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.closeKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.closeKey.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.closeKey.Location = new System.Drawing.Point(1159, 286);
+            this.closeKey.Location = new System.Drawing.Point(1159, 288);
             this.closeKey.Name = "closeKey";
             this.closeKey.Size = new System.Drawing.Size(121, 60);
             this.closeKey.TabIndex = 194;
@@ -400,7 +400,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.dhoKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.dhoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.dhoKey.Location = new System.Drawing.Point(488, 164);
+            this.dhoKey.Location = new System.Drawing.Point(488, 166);
             this.dhoKey.Name = "dhoKey";
             this.dhoKey.Size = new System.Drawing.Size(60, 60);
             this.dhoKey.TabIndex = 144;
@@ -412,7 +412,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.moKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.moKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.moKey.Location = new System.Drawing.Point(1159, 164);
+            this.moKey.Location = new System.Drawing.Point(1159, 166);
             this.moKey.Name = "moKey";
             this.moKey.Size = new System.Drawing.Size(60, 60);
             this.moKey.TabIndex = 184;
@@ -425,7 +425,7 @@ namespace simpleBenglaKeyboardProject
             this.candravinduSignModKey.BackColor = System.Drawing.Color.Pink;
             this.candravinduSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.candravinduSignModKey.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.candravinduSignModKey.Location = new System.Drawing.Point(0, 286);
+            this.candravinduSignModKey.Location = new System.Drawing.Point(0, 288);
             this.candravinduSignModKey.Name = "candravinduSignModKey";
             this.candravinduSignModKey.Size = new System.Drawing.Size(60, 60);
             this.candravinduSignModKey.TabIndex = 158;
@@ -438,7 +438,7 @@ namespace simpleBenglaKeyboardProject
             this.raaKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.raaKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.raaKey.ForeColor = System.Drawing.Color.Black;
-            this.raaKey.Location = new System.Drawing.Point(610, 225);
+            this.raaKey.Location = new System.Drawing.Point(610, 227);
             this.raaKey.Name = "raaKey";
             this.raaKey.Size = new System.Drawing.Size(60, 60);
             this.raaKey.TabIndex = 154;
@@ -451,7 +451,7 @@ namespace simpleBenglaKeyboardProject
             this.nnooKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.nnooKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.nnooKey.ForeColor = System.Drawing.Color.Black;
-            this.nnooKey.Location = new System.Drawing.Point(244, 164);
+            this.nnooKey.Location = new System.Drawing.Point(244, 166);
             this.nnooKey.Name = "nnooKey";
             this.nnooKey.Size = new System.Drawing.Size(60, 60);
             this.nnooKey.TabIndex = 124;
@@ -464,7 +464,7 @@ namespace simpleBenglaKeyboardProject
             this.choKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.choKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.choKey.ForeColor = System.Drawing.Color.Black;
-            this.choKey.Location = new System.Drawing.Point(61, 164);
+            this.choKey.Location = new System.Drawing.Point(61, 166);
             this.choKey.Name = "choKey";
             this.choKey.Size = new System.Drawing.Size(60, 60);
             this.choKey.TabIndex = 196;
@@ -476,7 +476,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.koKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.koKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.koKey.Location = new System.Drawing.Point(854, 103);
+            this.koKey.Location = new System.Drawing.Point(854, 105);
             this.koKey.Name = "koKey";
             this.koKey.Size = new System.Drawing.Size(60, 60);
             this.koKey.TabIndex = 174;
@@ -488,7 +488,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.poKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.poKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.poKey.Location = new System.Drawing.Point(915, 164);
+            this.poKey.Location = new System.Drawing.Point(915, 166);
             this.poKey.Name = "poKey";
             this.poKey.Size = new System.Drawing.Size(60, 60);
             this.poKey.TabIndex = 170;
@@ -501,7 +501,7 @@ namespace simpleBenglaKeyboardProject
             this.uuSignModKey.BackColor = System.Drawing.Color.Pink;
             this.uuSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.uuSignModKey.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.uuSignModKey.Location = new System.Drawing.Point(244, 286);
+            this.uuSignModKey.Location = new System.Drawing.Point(244, 288);
             this.uuSignModKey.Name = "uuSignModKey";
             this.uuSignModKey.Size = new System.Drawing.Size(60, 60);
             this.uuSignModKey.TabIndex = 182;
@@ -514,7 +514,7 @@ namespace simpleBenglaKeyboardProject
             this.chaaKey.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.chaaKey.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.chaaKey.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.chaaKey.Location = new System.Drawing.Point(244, 62);
+            this.chaaKey.Location = new System.Drawing.Point(244, 64);
             this.chaaKey.Name = "chaaKey";
             this.chaaKey.Size = new System.Drawing.Size(60, 40);
             this.chaaKey.TabIndex = 221;
@@ -526,7 +526,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.signTwoModKey.BackColor = System.Drawing.Color.YellowGreen;
             this.signTwoModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.signTwoModKey.Location = new System.Drawing.Point(854, 225);
+            this.signTwoModKey.Location = new System.Drawing.Point(854, 227);
             this.signTwoModKey.Name = "signTwoModKey";
             this.signTwoModKey.Size = new System.Drawing.Size(60, 60);
             this.signTwoModKey.TabIndex = 175;
@@ -538,7 +538,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.oiKey.BackColor = System.Drawing.Color.LightYellow;
             this.oiKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.oiKey.Location = new System.Drawing.Point(671, 103);
+            this.oiKey.Location = new System.Drawing.Point(671, 105);
             this.oiKey.Name = "oiKey";
             this.oiKey.Size = new System.Drawing.Size(60, 60);
             this.oiKey.TabIndex = 165;
@@ -550,7 +550,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.avagrahaKey.BackColor = System.Drawing.SystemColors.ControlLight;
             this.avagrahaKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.avagrahaKey.Location = new System.Drawing.Point(920, 225);
+            this.avagrahaKey.Location = new System.Drawing.Point(915, 288);
             this.avagrahaKey.Name = "avagrahaKey";
             this.avagrahaKey.Size = new System.Drawing.Size(60, 60);
             this.avagrahaKey.TabIndex = 216;
@@ -563,7 +563,7 @@ namespace simpleBenglaKeyboardProject
             this.rSoundModKey.BackColor = System.Drawing.Color.Pink;
             this.rSoundModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.rSoundModKey.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.rSoundModKey.Location = new System.Drawing.Point(305, 286);
+            this.rSoundModKey.Location = new System.Drawing.Point(305, 288);
             this.rSoundModKey.Name = "rSoundModKey";
             this.rSoundModKey.Size = new System.Drawing.Size(60, 60);
             this.rSoundModKey.TabIndex = 186;
@@ -575,7 +575,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.aKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             this.aKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.aKey.Location = new System.Drawing.Point(0, 103);
+            this.aKey.Location = new System.Drawing.Point(0, 105);
             this.aKey.Name = "aKey";
             this.aKey.Size = new System.Drawing.Size(60, 60);
             this.aKey.TabIndex = 118;
@@ -587,7 +587,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.rhoKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.rhoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.rhoKey.Location = new System.Drawing.Point(488, 225);
+            this.rhoKey.Location = new System.Drawing.Point(488, 227);
             this.rhoKey.Name = "rhoKey";
             this.rhoKey.Size = new System.Drawing.Size(60, 60);
             this.rhoKey.TabIndex = 141;
@@ -600,7 +600,7 @@ namespace simpleBenglaKeyboardProject
             this.chchoyKey.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.chchoyKey.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.chchoyKey.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.chchoyKey.Location = new System.Drawing.Point(366, 62);
+            this.chchoyKey.Location = new System.Drawing.Point(366, 64);
             this.chchoyKey.Name = "chchoyKey";
             this.chchoyKey.Size = new System.Drawing.Size(60, 40);
             this.chchoyKey.TabIndex = 223;
@@ -613,7 +613,7 @@ namespace simpleBenglaKeyboardProject
             this.naktaSignModKey.BackColor = System.Drawing.Color.Pink;
             this.naktaSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.naktaSignModKey.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.naktaSignModKey.Location = new System.Drawing.Point(61, 286);
+            this.naktaSignModKey.Location = new System.Drawing.Point(61, 288);
             this.naktaSignModKey.Name = "naktaSignModKey";
             this.naktaSignModKey.Size = new System.Drawing.Size(60, 60);
             this.naktaSignModKey.TabIndex = 169;
@@ -626,7 +626,7 @@ namespace simpleBenglaKeyboardProject
             this.tinKey.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.tinKey.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.tinKey.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.tinKey.Location = new System.Drawing.Point(183, 62);
+            this.tinKey.Location = new System.Drawing.Point(183, 64);
             this.tinKey.Name = "tinKey";
             this.tinKey.Size = new System.Drawing.Size(60, 40);
             this.tinKey.TabIndex = 225;
@@ -639,7 +639,7 @@ namespace simpleBenglaKeyboardProject
             this.backSpaceKey.BackColor = System.Drawing.Color.Purple;
             this.backSpaceKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.backSpaceKey.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.backSpaceKey.Location = new System.Drawing.Point(1159, 103);
+            this.backSpaceKey.Location = new System.Drawing.Point(1159, 105);
             this.backSpaceKey.Name = "backSpaceKey";
             this.backSpaceKey.Size = new System.Drawing.Size(121, 60);
             this.backSpaceKey.TabIndex = 199;
@@ -651,7 +651,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.khoKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.khoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.khoKey.Location = new System.Drawing.Point(915, 103);
+            this.khoKey.Location = new System.Drawing.Point(915, 105);
             this.khoKey.Name = "khoKey";
             this.khoKey.Size = new System.Drawing.Size(60, 60);
             this.khoKey.TabIndex = 177;
@@ -664,7 +664,7 @@ namespace simpleBenglaKeyboardProject
             this.twoKey.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.twoKey.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.twoKey.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.twoKey.Location = new System.Drawing.Point(793, 62);
+            this.twoKey.Location = new System.Drawing.Point(793, 64);
             this.twoKey.Name = "twoKey";
             this.twoKey.Size = new System.Drawing.Size(60, 40);
             this.twoKey.TabIndex = 206;
@@ -677,7 +677,7 @@ namespace simpleBenglaKeyboardProject
             this.duiKey.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.duiKey.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.duiKey.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.duiKey.Location = new System.Drawing.Point(122, 62);
+            this.duiKey.Location = new System.Drawing.Point(122, 64);
             this.duiKey.Name = "duiKey";
             this.duiKey.Size = new System.Drawing.Size(60, 40);
             this.duiKey.TabIndex = 220;
@@ -690,7 +690,7 @@ namespace simpleBenglaKeyboardProject
             this.oneKey.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.oneKey.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.oneKey.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.oneKey.Location = new System.Drawing.Point(732, 62);
+            this.oneKey.Location = new System.Drawing.Point(732, 64);
             this.oneKey.Name = "oneKey";
             this.oneKey.Size = new System.Drawing.Size(60, 40);
             this.oneKey.TabIndex = 205;
@@ -702,7 +702,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.auSignModKey.BackColor = System.Drawing.Color.YellowGreen;
             this.auSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.auSignModKey.Location = new System.Drawing.Point(1159, 225);
+            this.auSignModKey.Location = new System.Drawing.Point(1159, 227);
             this.auSignModKey.Name = "auSignModKey";
             this.auSignModKey.Size = new System.Drawing.Size(60, 60);
             this.auSignModKey.TabIndex = 122;
@@ -715,7 +715,7 @@ namespace simpleBenglaKeyboardProject
             this.vimraSignModKey.BackColor = System.Drawing.Color.Pink;
             this.vimraSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.vimraSignModKey.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.vimraSignModKey.Location = new System.Drawing.Point(122, 286);
+            this.vimraSignModKey.Location = new System.Drawing.Point(122, 288);
             this.vimraSignModKey.Name = "vimraSignModKey";
             this.vimraSignModKey.Size = new System.Drawing.Size(60, 60);
             this.vimraSignModKey.TabIndex = 127;
@@ -728,7 +728,7 @@ namespace simpleBenglaKeyboardProject
             this.sevenKey.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.sevenKey.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.sevenKey.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.sevenKey.Location = new System.Drawing.Point(1098, 62);
+            this.sevenKey.Location = new System.Drawing.Point(1098, 64);
             this.sevenKey.Name = "sevenKey";
             this.sevenKey.Size = new System.Drawing.Size(60, 40);
             this.sevenKey.TabIndex = 211;
@@ -740,7 +740,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.anusvaraModKey.BackColor = System.Drawing.Color.YellowGreen;
             this.anusvaraModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.anusvaraModKey.Location = new System.Drawing.Point(671, 225);
+            this.anusvaraModKey.Location = new System.Drawing.Point(671, 227);
             this.anusvaraModKey.Name = "anusvaraModKey";
             this.anusvaraModKey.Size = new System.Drawing.Size(60, 60);
             this.anusvaraModKey.TabIndex = 162;
@@ -753,7 +753,7 @@ namespace simpleBenglaKeyboardProject
             this.fourKey.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.fourKey.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.fourKey.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.fourKey.Location = new System.Drawing.Point(915, 62);
+            this.fourKey.Location = new System.Drawing.Point(915, 64);
             this.fourKey.Name = "fourKey";
             this.fourKey.Size = new System.Drawing.Size(60, 40);
             this.fourKey.TabIndex = 208;
@@ -765,7 +765,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.boKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.boKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.boKey.Location = new System.Drawing.Point(1037, 164);
+            this.boKey.Location = new System.Drawing.Point(1037, 166);
             this.boKey.Name = "boKey";
             this.boKey.Size = new System.Drawing.Size(60, 60);
             this.boKey.TabIndex = 176;
@@ -777,7 +777,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.liiKey.BackColor = System.Drawing.Color.Yellow;
             this.liiKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.liiKey.Location = new System.Drawing.Point(549, 103);
+            this.liiKey.Location = new System.Drawing.Point(549, 105);
             this.liiKey.Name = "liiKey";
             this.liiKey.Size = new System.Drawing.Size(60, 60);
             this.liiKey.TabIndex = 157;
@@ -789,7 +789,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.eSignModKey.BackColor = System.Drawing.Color.YellowGreen;
             this.eSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.eSignModKey.Location = new System.Drawing.Point(976, 225);
+            this.eSignModKey.Location = new System.Drawing.Point(976, 227);
             this.eSignModKey.Name = "eSignModKey";
             this.eSignModKey.Size = new System.Drawing.Size(60, 60);
             this.eSignModKey.TabIndex = 193;
@@ -802,7 +802,7 @@ namespace simpleBenglaKeyboardProject
             this.coKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.coKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.coKey.ForeColor = System.Drawing.Color.Black;
-            this.coKey.Location = new System.Drawing.Point(0, 164);
+            this.coKey.Location = new System.Drawing.Point(0, 166);
             this.coKey.Name = "coKey";
             this.coKey.Size = new System.Drawing.Size(60, 60);
             this.coKey.TabIndex = 192;
@@ -814,7 +814,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.commaKey.BackColor = System.Drawing.SystemColors.Control;
             this.commaKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.commaKey.Location = new System.Drawing.Point(976, 286);
+            this.commaKey.Location = new System.Drawing.Point(976, 288);
             this.commaKey.Name = "commaKey";
             this.commaKey.Size = new System.Drawing.Size(60, 60);
             this.commaKey.TabIndex = 226;
@@ -827,7 +827,7 @@ namespace simpleBenglaKeyboardProject
             this.ddoKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.ddoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.ddoKey.ForeColor = System.Drawing.Color.Black;
-            this.ddoKey.Location = new System.Drawing.Point(732, 164);
+            this.ddoKey.Location = new System.Drawing.Point(732, 166);
             this.ddoKey.Name = "ddoKey";
             this.ddoKey.Size = new System.Drawing.Size(60, 60);
             this.ddoKey.TabIndex = 160;
@@ -840,7 +840,7 @@ namespace simpleBenglaKeyboardProject
             this.paanchKey.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.paanchKey.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.paanchKey.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.paanchKey.Location = new System.Drawing.Point(305, 62);
+            this.paanchKey.Location = new System.Drawing.Point(305, 64);
             this.paanchKey.Name = "paanchKey";
             this.paanchKey.Size = new System.Drawing.Size(60, 40);
             this.paanchKey.TabIndex = 222;
@@ -852,7 +852,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.ssooKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.ssooKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.ssooKey.Location = new System.Drawing.Point(244, 225);
+            this.ssooKey.Location = new System.Drawing.Point(244, 227);
             this.ssooKey.Name = "ssooKey";
             this.ssooKey.Size = new System.Drawing.Size(60, 60);
             this.ssooKey.TabIndex = 126;
@@ -865,7 +865,7 @@ namespace simpleBenglaKeyboardProject
             this.spaceKey.BackColor = System.Drawing.Color.DarkGreen;
             this.spaceKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.spaceKey.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.spaceKey.Location = new System.Drawing.Point(549, 286);
+            this.spaceKey.Location = new System.Drawing.Point(549, 288);
             this.spaceKey.Name = "spaceKey";
             this.spaceKey.Size = new System.Drawing.Size(304, 60);
             this.spaceKey.TabIndex = 204;
@@ -877,7 +877,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.iiKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             this.iiKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.iiKey.Location = new System.Drawing.Point(183, 103);
+            this.iiKey.Location = new System.Drawing.Point(183, 105);
             this.iiKey.Name = "iiKey";
             this.iiKey.Size = new System.Drawing.Size(60, 60);
             this.iiKey.TabIndex = 138;
@@ -890,7 +890,7 @@ namespace simpleBenglaKeyboardProject
             this.sixKey.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.sixKey.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.sixKey.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.sixKey.Location = new System.Drawing.Point(1037, 62);
+            this.sixKey.Location = new System.Drawing.Point(1037, 64);
             this.sixKey.Name = "sixKey";
             this.sixKey.Size = new System.Drawing.Size(60, 40);
             this.sixKey.TabIndex = 210;
@@ -902,7 +902,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.taKey.BackColor = System.Drawing.SystemColors.ControlLight;
             this.taKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.taKey.Location = new System.Drawing.Point(854, 286);
+            this.taKey.Location = new System.Drawing.Point(854, 288);
             this.taKey.Name = "taKey";
             this.taKey.Size = new System.Drawing.Size(60, 60);
             this.taKey.TabIndex = 215;
@@ -914,7 +914,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.liKey.BackColor = System.Drawing.Color.Yellow;
             this.liKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.liKey.Location = new System.Drawing.Point(488, 103);
+            this.liKey.Location = new System.Drawing.Point(488, 105);
             this.liKey.Name = "liKey";
             this.liKey.Size = new System.Drawing.Size(60, 60);
             this.liKey.TabIndex = 155;
@@ -927,7 +927,7 @@ namespace simpleBenglaKeyboardProject
             this.rrSignModKey.BackColor = System.Drawing.Color.Pink;
             this.rrSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.rrSignModKey.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.rrSignModKey.Location = new System.Drawing.Point(366, 286);
+            this.rrSignModKey.Location = new System.Drawing.Point(366, 288);
             this.rrSignModKey.Name = "rrSignModKey";
             this.rrSignModKey.Size = new System.Drawing.Size(60, 60);
             this.rrSignModKey.TabIndex = 190;
@@ -939,7 +939,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.doKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.doKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.doKey.Location = new System.Drawing.Point(427, 164);
+            this.doKey.Location = new System.Drawing.Point(427, 166);
             this.doKey.Name = "doKey";
             this.doKey.Size = new System.Drawing.Size(60, 60);
             this.doKey.TabIndex = 139;
@@ -951,7 +951,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.questionMarkKey.BackColor = System.Drawing.SystemColors.Control;
             this.questionMarkKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.questionMarkKey.Location = new System.Drawing.Point(1098, 286);
+            this.questionMarkKey.Location = new System.Drawing.Point(1098, 288);
             this.questionMarkKey.Name = "questionMarkKey";
             this.questionMarkKey.Size = new System.Drawing.Size(60, 60);
             this.questionMarkKey.TabIndex = 187;
@@ -963,7 +963,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.phoKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.phoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.phoKey.Location = new System.Drawing.Point(976, 164);
+            this.phoKey.Location = new System.Drawing.Point(976, 166);
             this.phoKey.Name = "phoKey";
             this.phoKey.Size = new System.Drawing.Size(60, 60);
             this.phoKey.TabIndex = 173;
@@ -976,7 +976,7 @@ namespace simpleBenglaKeyboardProject
             this.lSignModKey.BackColor = System.Drawing.Color.Pink;
             this.lSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lSignModKey.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.lSignModKey.Location = new System.Drawing.Point(427, 286);
+            this.lSignModKey.Location = new System.Drawing.Point(427, 288);
             this.lSignModKey.Name = "lSignModKey";
             this.lSignModKey.Size = new System.Drawing.Size(60, 60);
             this.lSignModKey.TabIndex = 213;
@@ -989,7 +989,7 @@ namespace simpleBenglaKeyboardProject
             this.nineKey.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.nineKey.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.nineKey.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.nineKey.Location = new System.Drawing.Point(1220, 62);
+            this.nineKey.Location = new System.Drawing.Point(1220, 64);
             this.nineKey.Name = "nineKey";
             this.nineKey.Size = new System.Drawing.Size(60, 40);
             this.nineKey.TabIndex = 198;
@@ -1002,7 +1002,7 @@ namespace simpleBenglaKeyboardProject
             this.noyKey.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.noyKey.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.noyKey.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.noyKey.Location = new System.Drawing.Point(549, 62);
+            this.noyKey.Location = new System.Drawing.Point(549, 64);
             this.noyKey.Name = "noyKey";
             this.noyKey.Size = new System.Drawing.Size(60, 40);
             this.noyKey.TabIndex = 159;
@@ -1015,7 +1015,7 @@ namespace simpleBenglaKeyboardProject
             this.joKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.joKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.joKey.ForeColor = System.Drawing.Color.Black;
-            this.joKey.Location = new System.Drawing.Point(122, 164);
+            this.joKey.Location = new System.Drawing.Point(122, 166);
             this.joKey.Name = "joKey";
             this.joKey.Size = new System.Drawing.Size(60, 60);
             this.joKey.TabIndex = 201;
@@ -1027,7 +1027,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.fullStopKey.BackColor = System.Drawing.SystemColors.Control;
             this.fullStopKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.fullStopKey.Location = new System.Drawing.Point(1037, 286);
+            this.fullStopKey.Location = new System.Drawing.Point(1037, 288);
             this.fullStopKey.Name = "fullStopKey";
             this.fullStopKey.Size = new System.Drawing.Size(60, 60);
             this.fullStopKey.TabIndex = 183;
@@ -1039,7 +1039,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.aaKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             this.aaKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.aaKey.Location = new System.Drawing.Point(61, 103);
+            this.aaKey.Location = new System.Drawing.Point(61, 105);
             this.aaKey.Name = "aaKey";
             this.aaKey.Size = new System.Drawing.Size(60, 60);
             this.aaKey.TabIndex = 123;
@@ -1051,7 +1051,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.auTwoModKey.BackColor = System.Drawing.Color.YellowGreen;
             this.auTwoModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.auTwoModKey.Location = new System.Drawing.Point(1220, 225);
+            this.auTwoModKey.Location = new System.Drawing.Point(1220, 227);
             this.auTwoModKey.Name = "auTwoModKey";
             this.auTwoModKey.Size = new System.Drawing.Size(60, 60);
             this.auTwoModKey.TabIndex = 132;
@@ -1064,7 +1064,7 @@ namespace simpleBenglaKeyboardProject
             this.takaKey.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.takaKey.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.takaKey.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.takaKey.Location = new System.Drawing.Point(610, 62);
+            this.takaKey.Location = new System.Drawing.Point(610, 64);
             this.takaKey.Name = "takaKey";
             this.takaKey.Size = new System.Drawing.Size(60, 40);
             this.takaKey.TabIndex = 163;
@@ -1076,7 +1076,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.aiSignModKey.BackColor = System.Drawing.Color.YellowGreen;
             this.aiSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.aiSignModKey.Location = new System.Drawing.Point(1037, 225);
+            this.aiSignModKey.Location = new System.Drawing.Point(1037, 227);
             this.aiSignModKey.Name = "aiSignModKey";
             this.aiSignModKey.Size = new System.Drawing.Size(60, 60);
             this.aiSignModKey.TabIndex = 197;
@@ -1089,7 +1089,7 @@ namespace simpleBenglaKeyboardProject
             this.yyoKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.yyoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.yyoKey.ForeColor = System.Drawing.Color.Black;
-            this.yyoKey.Location = new System.Drawing.Point(1220, 164);
+            this.yyoKey.Location = new System.Drawing.Point(1220, 166);
             this.yyoKey.Name = "yyoKey";
             this.yyoKey.Size = new System.Drawing.Size(60, 60);
             this.yyoKey.TabIndex = 188;
@@ -1102,7 +1102,7 @@ namespace simpleBenglaKeyboardProject
             this.ekKey.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.ekKey.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.ekKey.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.ekKey.Location = new System.Drawing.Point(61, 62);
+            this.ekKey.Location = new System.Drawing.Point(61, 64);
             this.ekKey.Name = "ekKey";
             this.ekKey.Size = new System.Drawing.Size(60, 40);
             this.ekKey.TabIndex = 219;
@@ -1115,7 +1115,7 @@ namespace simpleBenglaKeyboardProject
             this.atKey.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.atKey.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.atKey.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.atKey.Location = new System.Drawing.Point(488, 62);
+            this.atKey.Location = new System.Drawing.Point(488, 64);
             this.atKey.Name = "atKey";
             this.atKey.Size = new System.Drawing.Size(60, 40);
             this.atKey.TabIndex = 153;
@@ -1128,7 +1128,7 @@ namespace simpleBenglaKeyboardProject
             this.soKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.soKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.soKey.ForeColor = System.Drawing.Color.Black;
-            this.soKey.Location = new System.Drawing.Point(183, 225);
+            this.soKey.Location = new System.Drawing.Point(183, 227);
             this.soKey.Name = "soKey";
             this.soKey.Size = new System.Drawing.Size(60, 60);
             this.soKey.TabIndex = 121;
@@ -1140,7 +1140,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.noKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.noKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.noKey.Location = new System.Drawing.Point(549, 164);
+            this.noKey.Location = new System.Drawing.Point(549, 166);
             this.noKey.Name = "noKey";
             this.noKey.Size = new System.Drawing.Size(60, 60);
             this.noKey.TabIndex = 148;
@@ -1152,7 +1152,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.hoKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.hoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.hoKey.Location = new System.Drawing.Point(305, 225);
+            this.hoKey.Location = new System.Drawing.Point(305, 227);
             this.hoKey.Name = "hoKey";
             this.hoKey.Size = new System.Drawing.Size(60, 60);
             this.hoKey.TabIndex = 131;
@@ -1165,7 +1165,7 @@ namespace simpleBenglaKeyboardProject
             this.uSignModKey.BackColor = System.Drawing.Color.Pink;
             this.uSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.uSignModKey.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.uSignModKey.Location = new System.Drawing.Point(183, 286);
+            this.uSignModKey.Location = new System.Drawing.Point(183, 288);
             this.uSignModKey.Name = "uSignModKey";
             this.uSignModKey.Size = new System.Drawing.Size(60, 60);
             this.uSignModKey.TabIndex = 178;
@@ -1178,7 +1178,7 @@ namespace simpleBenglaKeyboardProject
             this.nnoKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.nnoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.nnoKey.ForeColor = System.Drawing.Color.Black;
-            this.nnoKey.Location = new System.Drawing.Point(854, 164);
+            this.nnoKey.Location = new System.Drawing.Point(854, 166);
             this.nnoKey.Name = "nnoKey";
             this.nnoKey.Size = new System.Drawing.Size(60, 60);
             this.nnoKey.TabIndex = 167;
@@ -1190,7 +1190,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.roKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.roKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.roKey.Location = new System.Drawing.Point(427, 225);
+            this.roKey.Location = new System.Drawing.Point(427, 227);
             this.roKey.Name = "roKey";
             this.roKey.Size = new System.Drawing.Size(60, 60);
             this.roKey.TabIndex = 136;
@@ -1203,7 +1203,7 @@ namespace simpleBenglaKeyboardProject
             this.shatKey.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.shatKey.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.shatKey.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.shatKey.Location = new System.Drawing.Point(427, 62);
+            this.shatKey.Location = new System.Drawing.Point(427, 64);
             this.shatKey.Name = "shatKey";
             this.shatKey.Size = new System.Drawing.Size(60, 40);
             this.shatKey.TabIndex = 224;
@@ -1216,7 +1216,7 @@ namespace simpleBenglaKeyboardProject
             this.loKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.loKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.loKey.ForeColor = System.Drawing.Color.Black;
-            this.loKey.Location = new System.Drawing.Point(61, 225);
+            this.loKey.Location = new System.Drawing.Point(61, 227);
             this.loKey.Name = "loKey";
             this.loKey.Size = new System.Drawing.Size(60, 60);
             this.loKey.TabIndex = 195;
@@ -1228,7 +1228,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.iKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             this.iKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.iKey.Location = new System.Drawing.Point(122, 103);
+            this.iKey.Location = new System.Drawing.Point(122, 105);
             this.iKey.Name = "iKey";
             this.iKey.Size = new System.Drawing.Size(60, 60);
             this.iKey.TabIndex = 128;
@@ -1241,7 +1241,7 @@ namespace simpleBenglaKeyboardProject
             this.tthoKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.tthoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.tthoKey.ForeColor = System.Drawing.Color.Black;
-            this.tthoKey.Location = new System.Drawing.Point(671, 164);
+            this.tthoKey.Location = new System.Drawing.Point(671, 166);
             this.tthoKey.Name = "tthoKey";
             this.tthoKey.Size = new System.Drawing.Size(60, 60);
             this.tthoKey.TabIndex = 156;
@@ -1254,7 +1254,7 @@ namespace simpleBenglaKeyboardProject
             this.zeroKey.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.zeroKey.Font = new System.Drawing.Font("Segoe UI Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.zeroKey.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.zeroKey.Location = new System.Drawing.Point(671, 62);
+            this.zeroKey.Location = new System.Drawing.Point(671, 64);
             this.zeroKey.Name = "zeroKey";
             this.zeroKey.Size = new System.Drawing.Size(60, 40);
             this.zeroKey.TabIndex = 203;
@@ -1266,7 +1266,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.thoKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.thoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.thoKey.Location = new System.Drawing.Point(366, 164);
+            this.thoKey.Location = new System.Drawing.Point(366, 166);
             this.thoKey.Name = "thoKey";
             this.thoKey.Size = new System.Drawing.Size(60, 60);
             this.thoKey.TabIndex = 134;
@@ -1278,7 +1278,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.uuKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             this.uuKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.uuKey.Location = new System.Drawing.Point(305, 103);
+            this.uuKey.Location = new System.Drawing.Point(305, 105);
             this.uuKey.Name = "uuKey";
             this.uuKey.Size = new System.Drawing.Size(60, 60);
             this.uuKey.TabIndex = 147;
@@ -1291,7 +1291,7 @@ namespace simpleBenglaKeyboardProject
             this.jhoKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.jhoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.jhoKey.ForeColor = System.Drawing.Color.Black;
-            this.jhoKey.Location = new System.Drawing.Point(183, 164);
+            this.jhoKey.Location = new System.Drawing.Point(183, 166);
             this.jhoKey.Name = "jhoKey";
             this.jhoKey.Size = new System.Drawing.Size(60, 60);
             this.jhoKey.TabIndex = 119;
@@ -1303,7 +1303,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.ghoKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.ghoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.ghoKey.Location = new System.Drawing.Point(1037, 103);
+            this.ghoKey.Location = new System.Drawing.Point(1037, 105);
             this.ghoKey.Name = "ghoKey";
             this.ghoKey.Size = new System.Drawing.Size(60, 60);
             this.ghoKey.TabIndex = 185;
@@ -1315,7 +1315,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.goKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.goKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.goKey.Location = new System.Drawing.Point(976, 103);
+            this.goKey.Location = new System.Drawing.Point(976, 105);
             this.goKey.Name = "goKey";
             this.goKey.Size = new System.Drawing.Size(60, 60);
             this.goKey.TabIndex = 181;
@@ -1327,7 +1327,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.oSignModKey.BackColor = System.Drawing.Color.YellowGreen;
             this.oSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.oSignModKey.Location = new System.Drawing.Point(1098, 225);
+            this.oSignModKey.Location = new System.Drawing.Point(1098, 227);
             this.oSignModKey.Name = "oSignModKey";
             this.oSignModKey.Size = new System.Drawing.Size(60, 60);
             this.oSignModKey.TabIndex = 202;
@@ -1339,7 +1339,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.yoKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.yoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.yoKey.Location = new System.Drawing.Point(366, 225);
+            this.yoKey.Location = new System.Drawing.Point(366, 227);
             this.yoKey.Name = "yoKey";
             this.yoKey.Size = new System.Drawing.Size(60, 60);
             this.yoKey.TabIndex = 146;
@@ -1351,7 +1351,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.oKey.BackColor = System.Drawing.Color.LightYellow;
             this.oKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.oKey.Location = new System.Drawing.Point(732, 103);
+            this.oKey.Location = new System.Drawing.Point(732, 105);
             this.oKey.Name = "oKey";
             this.oKey.Size = new System.Drawing.Size(60, 60);
             this.oKey.TabIndex = 168;
@@ -1363,7 +1363,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.aaVowelSignModKey.BackColor = System.Drawing.Color.YellowGreen;
             this.aaVowelSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.aaVowelSignModKey.Location = new System.Drawing.Point(793, 225);
+            this.aaVowelSignModKey.Location = new System.Drawing.Point(793, 227);
             this.aaVowelSignModKey.Name = "aaVowelSignModKey";
             this.aaVowelSignModKey.Size = new System.Drawing.Size(60, 60);
             this.aaVowelSignModKey.TabIndex = 137;
@@ -1375,7 +1375,7 @@ namespace simpleBenglaKeyboardProject
             // 
             this.juktoSugguestionPanel.BackColor = System.Drawing.Color.Gold;
             this.juktoSugguestionPanel.Controls.Add(this.juktoButton);
-            this.juktoSugguestionPanel.Location = new System.Drawing.Point(0, 1);
+            this.juktoSugguestionPanel.Location = new System.Drawing.Point(0, 3);
             this.juktoSugguestionPanel.Margin = new System.Windows.Forms.Padding(2);
             this.juktoSugguestionPanel.Name = "juktoSugguestionPanel";
             this.juktoSugguestionPanel.Size = new System.Drawing.Size(1280, 60);
@@ -1401,7 +1401,7 @@ namespace simpleBenglaKeyboardProject
             this.AutoSize = true;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.ClientSize = new System.Drawing.Size(1280, 346);
+            this.ClientSize = new System.Drawing.Size(1280, 351);
             this.Controls.Add(this.juktoSugguestionPanel);
             this.Controls.Add(this.commaKey);
             this.Controls.Add(this.tinKey);
