@@ -25,3 +25,12 @@ Plans:
 - Prevent windows touch keyboard from going on top of it
 - Display more relevant and common Jukto sugguestion first 
   - Add side scroll to search
+- Make test script
+- Add funtionality that converts bangla writting to digital letters
+  - Maybe make an MLP for this (for funzies =D)
+- Animations for the form when it opens and closes
+- Make buttons change colour of highlight breifly when pressed 
+- Make overlay resize active window so it doesn't cover everything
+- Make it take English keyboard input to make words
+- Make an English keyboard that can be swapped to
+- Add minimize functionality 
