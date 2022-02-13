@@ -89,5 +89,495 @@ namespace simpleBenglaKeyboardProject
         {
 
         }
+
+        private void button21_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void duiKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tinKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void chaaKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void paanchKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void chchoyKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void shatKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void atKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void noyKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void takaKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void zeroKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void oneKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void twoKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void threeKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void fourKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void fiveKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void sixKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void sevenKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void eightKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void nineKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void aKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void aaKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void iKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void iiKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void uKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void uuKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void riKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void riiKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void liKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void liiKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void eKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void oiKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void oKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ouKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void koKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void khoKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void goKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ghoKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ngoKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void backSpaceKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void coKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void choKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void joKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void jhoKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void nnooKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void thoKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void doKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dhoKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void noKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ttoKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tthoKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ddoKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ddhoKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void nnoKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void poKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void phoKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void boKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bhoKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void moKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void yyoKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void rroKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void loKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ssoKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void soKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ssooKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void hoKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void yoKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void roKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void rhoKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void raKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void raaKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void anusvaraModKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void visargaModKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void aaVowelSignModKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void signTwoModKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void signOneModKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void eSignModKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void aiSignModKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void oSignModKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void auSignModKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void auTwoModKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void candravinduSignModKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void naktaSignModKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void vimraSignModKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void uSignModKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void uuSignModKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void rSoundModKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void rrSignModKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lSignModKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void llSignModKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void spaceKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void taKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void avagrahaKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void commaKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void fullStopKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void questionMarkKey_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void closeKey_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

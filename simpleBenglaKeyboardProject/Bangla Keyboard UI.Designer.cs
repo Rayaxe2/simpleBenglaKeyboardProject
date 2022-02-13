@@ -29,10 +29,10 @@ namespace simpleBenglaKeyboardProject
         /// </summary>
         private void InitializeComponent()
         {
-            this.button26 = new System.Windows.Forms.Button();
-            this.button31 = new System.Windows.Forms.Button();
-            this.button75 = new System.Windows.Forms.Button();
-            this.button80 = new System.Windows.Forms.Button();
+            this.avagrahaKey = new System.Windows.Forms.Button();
+            this.taKey = new System.Windows.Forms.Button();
+            this.llSignModKey = new System.Windows.Forms.Button();
+            this.lSignModKey = new System.Windows.Forms.Button();
             this.eightKey = new System.Windows.Forms.Button();
             this.sevenKey = new System.Windows.Forms.Button();
             this.sixKey = new System.Windows.Forms.Button();
@@ -41,85 +41,84 @@ namespace simpleBenglaKeyboardProject
             this.threeKey = new System.Windows.Forms.Button();
             this.twoKey = new System.Windows.Forms.Button();
             this.oneKey = new System.Windows.Forms.Button();
-            this.button36 = new System.Windows.Forms.Button();
+            this.spaceKey = new System.Windows.Forms.Button();
             this.zeroKey = new System.Windows.Forms.Button();
-            this.button102 = new System.Windows.Forms.Button();
-            this.button103 = new System.Windows.Forms.Button();
-            this.button104 = new System.Windows.Forms.Button();
-            this.button105 = new System.Windows.Forms.Button();
+            this.oSignModKey = new System.Windows.Forms.Button();
+            this.joKey = new System.Windows.Forms.Button();
+            this.ssoKey = new System.Windows.Forms.Button();
+            this.backSpaceKey = new System.Windows.Forms.Button();
             this.nineKey = new System.Windows.Forms.Button();
-            this.button92 = new System.Windows.Forms.Button();
-            this.button93 = new System.Windows.Forms.Button();
-            this.button94 = new System.Windows.Forms.Button();
-            this.button96 = new System.Windows.Forms.Button();
-            this.button97 = new System.Windows.Forms.Button();
-            this.button98 = new System.Windows.Forms.Button();
-            this.button99 = new System.Windows.Forms.Button();
-            this.button67 = new System.Windows.Forms.Button();
-            this.button68 = new System.Windows.Forms.Button();
-            this.button69 = new System.Windows.Forms.Button();
-            this.button71 = new System.Windows.Forms.Button();
-            this.button72 = new System.Windows.Forms.Button();
-            this.button73 = new System.Windows.Forms.Button();
-            this.button74 = new System.Windows.Forms.Button();
-            this.button76 = new System.Windows.Forms.Button();
-            this.button77 = new System.Windows.Forms.Button();
-            this.button78 = new System.Windows.Forms.Button();
-            this.button79 = new System.Windows.Forms.Button();
-            this.button81 = new System.Windows.Forms.Button();
-            this.button82 = new System.Windows.Forms.Button();
-            this.button83 = new System.Windows.Forms.Button();
-            this.button84 = new System.Windows.Forms.Button();
-            this.button87 = new System.Windows.Forms.Button();
-            this.button88 = new System.Windows.Forms.Button();
-            this.button89 = new System.Windows.Forms.Button();
-            this.button62 = new System.Windows.Forms.Button();
-            this.button63 = new System.Windows.Forms.Button();
-            this.test = new System.Windows.Forms.Button();
-            this.button57 = new System.Windows.Forms.Button();
-            this.button58 = new System.Windows.Forms.Button();
-            this.button59 = new System.Windows.Forms.Button();
-            this.button52 = new System.Windows.Forms.Button();
-            this.button53 = new System.Windows.Forms.Button();
-            this.button54 = new System.Windows.Forms.Button();
+            this.aiSignModKey = new System.Windows.Forms.Button();
+            this.choKey = new System.Windows.Forms.Button();
+            this.loKey = new System.Windows.Forms.Button();
+            this.closeKey = new System.Windows.Forms.Button();
+            this.eSignModKey = new System.Windows.Forms.Button();
+            this.coKey = new System.Windows.Forms.Button();
+            this.rroKey = new System.Windows.Forms.Button();
+            this.rrSignModKey = new System.Windows.Forms.Button();
+            this.ngoKey = new System.Windows.Forms.Button();
+            this.yyoKey = new System.Windows.Forms.Button();
+            this.questionMarkKey = new System.Windows.Forms.Button();
+            this.rSoundModKey = new System.Windows.Forms.Button();
+            this.ghoKey = new System.Windows.Forms.Button();
+            this.moKey = new System.Windows.Forms.Button();
+            this.fullStopKey = new System.Windows.Forms.Button();
+            this.uuSignModKey = new System.Windows.Forms.Button();
+            this.goKey = new System.Windows.Forms.Button();
+            this.bhoKey = new System.Windows.Forms.Button();
+            this.riiKey = new System.Windows.Forms.Button();
+            this.uSignModKey = new System.Windows.Forms.Button();
+            this.khoKey = new System.Windows.Forms.Button();
+            this.boKey = new System.Windows.Forms.Button();
+            this.signTwoModKey = new System.Windows.Forms.Button();
+            this.koKey = new System.Windows.Forms.Button();
+            this.phoKey = new System.Windows.Forms.Button();
+            this.signOneModKey = new System.Windows.Forms.Button();
+            this.ouKey = new System.Windows.Forms.Button();
+            this.poKey = new System.Windows.Forms.Button();
+            this.naktaSignModKey = new System.Windows.Forms.Button();
+            this.oKey = new System.Windows.Forms.Button();
+            this.nnoKey = new System.Windows.Forms.Button();
+            this.visargaModKey = new System.Windows.Forms.Button();
+            this.oiKey = new System.Windows.Forms.Button();
+            this.ddhoKey = new System.Windows.Forms.Button();
             this.takaKey = new System.Windows.Forms.Button();
-            this.button47 = new System.Windows.Forms.Button();
-            this.button48 = new System.Windows.Forms.Button();
-            this.button49 = new System.Windows.Forms.Button();
+            this.anusvaraModKey = new System.Windows.Forms.Button();
+            this.eKey = new System.Windows.Forms.Button();
+            this.ddoKey = new System.Windows.Forms.Button();
             this.noyKey = new System.Windows.Forms.Button();
-            this.button42 = new System.Windows.Forms.Button();
-            this.button43 = new System.Windows.Forms.Button();
-            this.button44 = new System.Windows.Forms.Button();
-            this.button45 = new System.Windows.Forms.Button();
-            this.button37 = new System.Windows.Forms.Button();
+            this.candravinduSignModKey = new System.Windows.Forms.Button();
+            this.liiKey = new System.Windows.Forms.Button();
+            this.tthoKey = new System.Windows.Forms.Button();
+            this.liKey = new System.Windows.Forms.Button();
+            this.raaKey = new System.Windows.Forms.Button();
             this.atKey = new System.Windows.Forms.Button();
-            this.button39 = new System.Windows.Forms.Button();
-            this.button40 = new System.Windows.Forms.Button();
-            this.button32 = new System.Windows.Forms.Button();
-            this.button34 = new System.Windows.Forms.Button();
-            this.button35 = new System.Windows.Forms.Button();
-            this.button27 = new System.Windows.Forms.Button();
-            this.button29 = new System.Windows.Forms.Button();
-            this.button30 = new System.Windows.Forms.Button();
-            this.button21 = new System.Windows.Forms.Button();
-            this.button22 = new System.Windows.Forms.Button();
-            this.button24 = new System.Windows.Forms.Button();
-            this.button25 = new System.Windows.Forms.Button();
-            this.button16 = new System.Windows.Forms.Button();
-            this.button17 = new System.Windows.Forms.Button();
-            this.button19 = new System.Windows.Forms.Button();
-            this.button11 = new System.Windows.Forms.Button();
-            this.button12 = new System.Windows.Forms.Button();
-            this.button14 = new System.Windows.Forms.Button();
-            this.button15 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
-            this.button7 = new System.Windows.Forms.Button();
-            this.button9 = new System.Windows.Forms.Button();
-            this.button10 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
+            this.ttoKey = new System.Windows.Forms.Button();
+            this.riKey = new System.Windows.Forms.Button();
+            this.raKey = new System.Windows.Forms.Button();
+            this.noKey = new System.Windows.Forms.Button();
+            this.uuKey = new System.Windows.Forms.Button();
+            this.yoKey = new System.Windows.Forms.Button();
+            this.dhoKey = new System.Windows.Forms.Button();
+            this.uKey = new System.Windows.Forms.Button();
+            this.rhoKey = new System.Windows.Forms.Button();
+            this.doKey = new System.Windows.Forms.Button();
+            this.iiKey = new System.Windows.Forms.Button();
+            this.aaVowelSignModKey = new System.Windows.Forms.Button();
+            this.roKey = new System.Windows.Forms.Button();
+            this.thoKey = new System.Windows.Forms.Button();
+            this.auTwoModKey = new System.Windows.Forms.Button();
+            this.hoKey = new System.Windows.Forms.Button();
+            this.toKey = new System.Windows.Forms.Button();
+            this.iKey = new System.Windows.Forms.Button();
+            this.vimraSignModKey = new System.Windows.Forms.Button();
+            this.ssooKey = new System.Windows.Forms.Button();
+            this.nnooKey = new System.Windows.Forms.Button();
+            this.aaKey = new System.Windows.Forms.Button();
+            this.auSignModKey = new System.Windows.Forms.Button();
+            this.soKey = new System.Windows.Forms.Button();
+            this.jhoKey = new System.Windows.Forms.Button();
+            this.aKey = new System.Windows.Forms.Button();
             this.tinKey = new System.Windows.Forms.Button();
             this.shatKey = new System.Windows.Forms.Button();
             this.chchoyKey = new System.Windows.Forms.Button();
@@ -128,47 +127,52 @@ namespace simpleBenglaKeyboardProject
             this.duiKey = new System.Windows.Forms.Button();
             this.ekKey = new System.Windows.Forms.Button();
             this.shoonnoKey = new System.Windows.Forms.Button();
+            this.commaKey = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // button26
+            // avagrahaKey
             // 
-            this.button26.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button26.Location = new System.Drawing.Point(1347, 369);
-            this.button26.Name = "button26";
-            this.button26.Size = new System.Drawing.Size(83, 83);
-            this.button26.TabIndex = 216;
-            this.button26.Text = "ঽ";
-            this.button26.UseVisualStyleBackColor = true;
+            this.avagrahaKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.avagrahaKey.Location = new System.Drawing.Point(1347, 369);
+            this.avagrahaKey.Name = "avagrahaKey";
+            this.avagrahaKey.Size = new System.Drawing.Size(83, 83);
+            this.avagrahaKey.TabIndex = 216;
+            this.avagrahaKey.Text = "ঽ";
+            this.avagrahaKey.UseVisualStyleBackColor = true;
+            this.avagrahaKey.Click += new System.EventHandler(this.avagrahaKey_Click);
             // 
-            // button31
+            // taKey
             // 
-            this.button31.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button31.Location = new System.Drawing.Point(1258, 369);
-            this.button31.Name = "button31";
-            this.button31.Size = new System.Drawing.Size(83, 83);
-            this.button31.TabIndex = 215;
-            this.button31.Text = "ৎ";
-            this.button31.UseVisualStyleBackColor = true;
+            this.taKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.taKey.Location = new System.Drawing.Point(1258, 369);
+            this.taKey.Name = "taKey";
+            this.taKey.Size = new System.Drawing.Size(83, 83);
+            this.taKey.TabIndex = 215;
+            this.taKey.Text = "ৎ";
+            this.taKey.UseVisualStyleBackColor = true;
+            this.taKey.Click += new System.EventHandler(this.taKey_Click);
             // 
-            // button75
+            // llSignModKey
             // 
-            this.button75.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button75.Location = new System.Drawing.Point(724, 369);
-            this.button75.Name = "button75";
-            this.button75.Size = new System.Drawing.Size(83, 83);
-            this.button75.TabIndex = 214;
-            this.button75.Text = "ৣ";
-            this.button75.UseVisualStyleBackColor = true;
+            this.llSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.llSignModKey.Location = new System.Drawing.Point(724, 369);
+            this.llSignModKey.Name = "llSignModKey";
+            this.llSignModKey.Size = new System.Drawing.Size(83, 83);
+            this.llSignModKey.TabIndex = 214;
+            this.llSignModKey.Text = "ৣ";
+            this.llSignModKey.UseVisualStyleBackColor = true;
+            this.llSignModKey.Click += new System.EventHandler(this.llSignModKey_Click);
             // 
-            // button80
+            // lSignModKey
             // 
-            this.button80.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button80.Location = new System.Drawing.Point(635, 369);
-            this.button80.Name = "button80";
-            this.button80.Size = new System.Drawing.Size(83, 83);
-            this.button80.TabIndex = 213;
-            this.button80.Text = "ৢ";
-            this.button80.UseVisualStyleBackColor = true;
+            this.lSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lSignModKey.Location = new System.Drawing.Point(635, 369);
+            this.lSignModKey.Name = "lSignModKey";
+            this.lSignModKey.Size = new System.Drawing.Size(83, 83);
+            this.lSignModKey.TabIndex = 213;
+            this.lSignModKey.Text = "ৢ";
+            this.lSignModKey.UseVisualStyleBackColor = true;
+            this.lSignModKey.Click += new System.EventHandler(this.lSignModKey_Click);
             // 
             // eightKey
             // 
@@ -179,6 +183,7 @@ namespace simpleBenglaKeyboardProject
             this.eightKey.TabIndex = 212;
             this.eightKey.Text = "8";
             this.eightKey.UseVisualStyleBackColor = true;
+            this.eightKey.Click += new System.EventHandler(this.eightKey_Click);
             // 
             // sevenKey
             // 
@@ -189,6 +194,7 @@ namespace simpleBenglaKeyboardProject
             this.sevenKey.TabIndex = 211;
             this.sevenKey.Text = "7";
             this.sevenKey.UseVisualStyleBackColor = true;
+            this.sevenKey.Click += new System.EventHandler(this.sevenKey_Click);
             // 
             // sixKey
             // 
@@ -199,6 +205,7 @@ namespace simpleBenglaKeyboardProject
             this.sixKey.TabIndex = 210;
             this.sixKey.Text = "6";
             this.sixKey.UseVisualStyleBackColor = true;
+            this.sixKey.Click += new System.EventHandler(this.sixKey_Click);
             // 
             // fiveKey
             // 
@@ -209,6 +216,7 @@ namespace simpleBenglaKeyboardProject
             this.fiveKey.TabIndex = 209;
             this.fiveKey.Text = "5";
             this.fiveKey.UseVisualStyleBackColor = true;
+            this.fiveKey.Click += new System.EventHandler(this.fiveKey_Click);
             // 
             // fourKey
             // 
@@ -219,6 +227,7 @@ namespace simpleBenglaKeyboardProject
             this.fourKey.TabIndex = 208;
             this.fourKey.Text = "4";
             this.fourKey.UseVisualStyleBackColor = true;
+            this.fourKey.Click += new System.EventHandler(this.fourKey_Click);
             // 
             // threeKey
             // 
@@ -229,6 +238,7 @@ namespace simpleBenglaKeyboardProject
             this.threeKey.TabIndex = 207;
             this.threeKey.Text = "3";
             this.threeKey.UseVisualStyleBackColor = true;
+            this.threeKey.Click += new System.EventHandler(this.threeKey_Click);
             // 
             // twoKey
             // 
@@ -239,6 +249,7 @@ namespace simpleBenglaKeyboardProject
             this.twoKey.TabIndex = 206;
             this.twoKey.Text = "2";
             this.twoKey.UseVisualStyleBackColor = true;
+            this.twoKey.Click += new System.EventHandler(this.twoKey_Click);
             // 
             // oneKey
             // 
@@ -249,16 +260,18 @@ namespace simpleBenglaKeyboardProject
             this.oneKey.TabIndex = 205;
             this.oneKey.Text = "1";
             this.oneKey.UseVisualStyleBackColor = true;
+            this.oneKey.Click += new System.EventHandler(this.oneKey_Click);
             // 
-            // button36
+            // spaceKey
             // 
-            this.button36.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button36.Location = new System.Drawing.Point(813, 369);
-            this.button36.Name = "button36";
-            this.button36.Size = new System.Drawing.Size(439, 83);
-            this.button36.TabIndex = 204;
-            this.button36.Text = "␣";
-            this.button36.UseVisualStyleBackColor = true;
+            this.spaceKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.spaceKey.Location = new System.Drawing.Point(813, 369);
+            this.spaceKey.Name = "spaceKey";
+            this.spaceKey.Size = new System.Drawing.Size(439, 83);
+            this.spaceKey.TabIndex = 204;
+            this.spaceKey.Text = "␣";
+            this.spaceKey.UseVisualStyleBackColor = true;
+            this.spaceKey.Click += new System.EventHandler(this.spaceKey_Click);
             // 
             // zeroKey
             // 
@@ -269,46 +282,51 @@ namespace simpleBenglaKeyboardProject
             this.zeroKey.TabIndex = 203;
             this.zeroKey.Text = "0";
             this.zeroKey.UseVisualStyleBackColor = true;
+            this.zeroKey.Click += new System.EventHandler(this.zeroKey_Click);
             // 
-            // button102
+            // oSignModKey
             // 
-            this.button102.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button102.Location = new System.Drawing.Point(1614, 280);
-            this.button102.Name = "button102";
-            this.button102.Size = new System.Drawing.Size(83, 83);
-            this.button102.TabIndex = 202;
-            this.button102.Text = "ো\t";
-            this.button102.UseVisualStyleBackColor = true;
+            this.oSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.oSignModKey.Location = new System.Drawing.Point(1614, 280);
+            this.oSignModKey.Name = "oSignModKey";
+            this.oSignModKey.Size = new System.Drawing.Size(83, 83);
+            this.oSignModKey.TabIndex = 202;
+            this.oSignModKey.Text = "ো\t";
+            this.oSignModKey.UseVisualStyleBackColor = true;
+            this.oSignModKey.Click += new System.EventHandler(this.oSignModKey_Click);
             // 
-            // button103
+            // joKey
             // 
-            this.button103.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button103.Location = new System.Drawing.Point(190, 191);
-            this.button103.Name = "button103";
-            this.button103.Size = new System.Drawing.Size(83, 83);
-            this.button103.TabIndex = 201;
-            this.button103.Text = "জ";
-            this.button103.UseVisualStyleBackColor = true;
+            this.joKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.joKey.Location = new System.Drawing.Point(190, 191);
+            this.joKey.Name = "joKey";
+            this.joKey.Size = new System.Drawing.Size(83, 83);
+            this.joKey.TabIndex = 201;
+            this.joKey.Text = "জ";
+            this.joKey.UseVisualStyleBackColor = true;
+            this.joKey.Click += new System.EventHandler(this.joKey_Click);
             // 
-            // button104
+            // ssoKey
             // 
-            this.button104.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button104.Location = new System.Drawing.Point(190, 280);
-            this.button104.Name = "button104";
-            this.button104.Size = new System.Drawing.Size(83, 83);
-            this.button104.TabIndex = 200;
-            this.button104.Text = "শ";
-            this.button104.UseVisualStyleBackColor = true;
+            this.ssoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.ssoKey.Location = new System.Drawing.Point(190, 280);
+            this.ssoKey.Name = "ssoKey";
+            this.ssoKey.Size = new System.Drawing.Size(83, 83);
+            this.ssoKey.TabIndex = 200;
+            this.ssoKey.Text = "শ";
+            this.ssoKey.UseVisualStyleBackColor = true;
+            this.ssoKey.Click += new System.EventHandler(this.ssoKey_Click);
             // 
-            // button105
+            // backSpaceKey
             // 
-            this.button105.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button105.Location = new System.Drawing.Point(1703, 102);
-            this.button105.Name = "button105";
-            this.button105.Size = new System.Drawing.Size(172, 83);
-            this.button105.TabIndex = 199;
-            this.button105.Text = "<<";
-            this.button105.UseVisualStyleBackColor = true;
+            this.backSpaceKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.backSpaceKey.Location = new System.Drawing.Point(1703, 102);
+            this.backSpaceKey.Name = "backSpaceKey";
+            this.backSpaceKey.Size = new System.Drawing.Size(172, 83);
+            this.backSpaceKey.TabIndex = 199;
+            this.backSpaceKey.Text = "<<";
+            this.backSpaceKey.UseVisualStyleBackColor = true;
+            this.backSpaceKey.Click += new System.EventHandler(this.backSpaceKey_Click);
             // 
             // nineKey
             // 
@@ -319,348 +337,383 @@ namespace simpleBenglaKeyboardProject
             this.nineKey.TabIndex = 198;
             this.nineKey.Text = "9";
             this.nineKey.UseVisualStyleBackColor = true;
-            // 
-            // button92
-            // 
-            this.button92.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button92.Location = new System.Drawing.Point(1525, 280);
-            this.button92.Name = "button92";
-            this.button92.Size = new System.Drawing.Size(83, 83);
-            this.button92.TabIndex = 197;
-            this.button92.Text = "ৈ\t";
-            this.button92.UseVisualStyleBackColor = true;
-            // 
-            // button93
-            // 
-            this.button93.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button93.Location = new System.Drawing.Point(101, 191);
-            this.button93.Name = "button93";
-            this.button93.Size = new System.Drawing.Size(83, 83);
-            this.button93.TabIndex = 196;
-            this.button93.Text = "ছ";
-            this.button93.UseVisualStyleBackColor = true;
-            // 
-            // button94
-            // 
-            this.button94.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button94.Location = new System.Drawing.Point(101, 280);
-            this.button94.Name = "button94";
-            this.button94.Size = new System.Drawing.Size(83, 83);
-            this.button94.TabIndex = 195;
-            this.button94.Text = "ল";
-            this.button94.UseVisualStyleBackColor = true;
-            // 
-            // button96
-            // 
-            this.button96.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.button96.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button96.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button96.Location = new System.Drawing.Point(1703, 369);
-            this.button96.Name = "button96";
-            this.button96.Size = new System.Drawing.Size(172, 83);
-            this.button96.TabIndex = 194;
-            this.button96.Text = "Close";
-            this.button96.UseVisualStyleBackColor = false;
-            // 
-            // button97
-            // 
-            this.button97.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button97.Location = new System.Drawing.Point(1436, 280);
-            this.button97.Name = "button97";
-            this.button97.Size = new System.Drawing.Size(83, 83);
-            this.button97.TabIndex = 193;
-            this.button97.Text = "ে\t";
-            this.button97.UseVisualStyleBackColor = true;
-            // 
-            // button98
-            // 
-            this.button98.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button98.Location = new System.Drawing.Point(12, 191);
-            this.button98.Name = "button98";
-            this.button98.Size = new System.Drawing.Size(83, 83);
-            this.button98.TabIndex = 192;
-            this.button98.Text = "চ";
-            this.button98.UseVisualStyleBackColor = true;
-            // 
-            // button99
-            // 
-            this.button99.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button99.Location = new System.Drawing.Point(12, 280);
-            this.button99.Name = "button99";
-            this.button99.Size = new System.Drawing.Size(83, 83);
-            this.button99.TabIndex = 191;
-            this.button99.Text = "র";
-            this.button99.UseVisualStyleBackColor = true;
-            // 
-            // button67
-            // 
-            this.button67.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button67.Location = new System.Drawing.Point(546, 369);
-            this.button67.Name = "button67";
-            this.button67.Size = new System.Drawing.Size(83, 83);
-            this.button67.TabIndex = 190;
-            this.button67.Text = "ৄ\t";
-            this.button67.UseVisualStyleBackColor = true;
-            // 
-            // button68
-            // 
-            this.button68.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button68.Location = new System.Drawing.Point(1614, 102);
-            this.button68.Name = "button68";
-            this.button68.Size = new System.Drawing.Size(83, 83);
-            this.button68.TabIndex = 189;
-            this.button68.Text = "ঙ";
-            this.button68.UseVisualStyleBackColor = true;
-            // 
-            // button69
-            // 
-            this.button69.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button69.Location = new System.Drawing.Point(1792, 191);
-            this.button69.Name = "button69";
-            this.button69.Size = new System.Drawing.Size(83, 83);
-            this.button69.TabIndex = 188;
-            this.button69.Text = "য";
-            this.button69.UseVisualStyleBackColor = true;
-            // 
-            // button71
-            // 
-            this.button71.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button71.Location = new System.Drawing.Point(1614, 369);
-            this.button71.Name = "button71";
-            this.button71.Size = new System.Drawing.Size(83, 83);
-            this.button71.TabIndex = 187;
-            this.button71.Text = "?";
-            this.button71.UseVisualStyleBackColor = true;
-            // 
-            // button72
-            // 
-            this.button72.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button72.Location = new System.Drawing.Point(457, 369);
-            this.button72.Name = "button72";
-            this.button72.Size = new System.Drawing.Size(83, 83);
-            this.button72.TabIndex = 186;
-            this.button72.Text = "ৃ\t";
-            this.button72.UseVisualStyleBackColor = true;
-            // 
-            // button73
-            // 
-            this.button73.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button73.Location = new System.Drawing.Point(1525, 102);
-            this.button73.Name = "button73";
-            this.button73.Size = new System.Drawing.Size(83, 83);
-            this.button73.TabIndex = 185;
-            this.button73.Text = "ঘ";
-            this.button73.UseVisualStyleBackColor = true;
-            // 
-            // button74
-            // 
-            this.button74.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button74.Location = new System.Drawing.Point(1703, 191);
-            this.button74.Name = "button74";
-            this.button74.Size = new System.Drawing.Size(83, 83);
-            this.button74.TabIndex = 184;
-            this.button74.Text = "ম";
-            this.button74.UseVisualStyleBackColor = true;
-            // 
-            // button76
-            // 
-            this.button76.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button76.Location = new System.Drawing.Point(1525, 369);
-            this.button76.Name = "button76";
-            this.button76.Size = new System.Drawing.Size(83, 83);
-            this.button76.TabIndex = 183;
-            this.button76.Text = ".";
-            this.button76.UseVisualStyleBackColor = true;
-            // 
-            // button77
-            // 
-            this.button77.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button77.Location = new System.Drawing.Point(368, 369);
-            this.button77.Name = "button77";
-            this.button77.Size = new System.Drawing.Size(83, 83);
-            this.button77.TabIndex = 182;
-            this.button77.Text = "ূ\t";
-            this.button77.UseVisualStyleBackColor = true;
-            // 
-            // button78
-            // 
-            this.button78.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button78.Location = new System.Drawing.Point(1436, 102);
-            this.button78.Name = "button78";
-            this.button78.Size = new System.Drawing.Size(83, 83);
-            this.button78.TabIndex = 181;
-            this.button78.Text = "গ";
-            this.button78.UseVisualStyleBackColor = true;
-            // 
-            // button79
-            // 
-            this.button79.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button79.Location = new System.Drawing.Point(1614, 191);
-            this.button79.Name = "button79";
-            this.button79.Size = new System.Drawing.Size(83, 83);
-            this.button79.TabIndex = 180;
-            this.button79.Text = "ভ";
-            this.button79.UseVisualStyleBackColor = true;
-            // 
-            // button81
-            // 
-            this.button81.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button81.Location = new System.Drawing.Point(635, 102);
-            this.button81.Name = "button81";
-            this.button81.Size = new System.Drawing.Size(83, 83);
-            this.button81.TabIndex = 179;
-            this.button81.Text = "ৠ\t";
-            this.button81.UseVisualStyleBackColor = true;
-            // 
-            // button82
-            // 
-            this.button82.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button82.Location = new System.Drawing.Point(279, 369);
-            this.button82.Name = "button82";
-            this.button82.Size = new System.Drawing.Size(83, 83);
-            this.button82.TabIndex = 178;
-            this.button82.Text = "ু";
-            this.button82.UseVisualStyleBackColor = true;
-            // 
-            // button83
-            // 
-            this.button83.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button83.Location = new System.Drawing.Point(1347, 102);
-            this.button83.Name = "button83";
-            this.button83.Size = new System.Drawing.Size(83, 83);
-            this.button83.TabIndex = 177;
-            this.button83.Text = "খ";
-            this.button83.UseVisualStyleBackColor = true;
-            // 
-            // button84
-            // 
-            this.button84.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button84.Location = new System.Drawing.Point(1525, 191);
-            this.button84.Name = "button84";
-            this.button84.Size = new System.Drawing.Size(83, 83);
-            this.button84.TabIndex = 176;
-            this.button84.Text = "ব";
-            this.button84.UseVisualStyleBackColor = true;
-            // 
-            // button87
-            // 
-            this.button87.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button87.Location = new System.Drawing.Point(1258, 280);
-            this.button87.Name = "button87";
-            this.button87.Size = new System.Drawing.Size(83, 83);
-            this.button87.TabIndex = 175;
-            this.button87.Text = "ী";
-            this.button87.UseVisualStyleBackColor = true;
-            // 
-            // button88
-            // 
-            this.button88.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button88.Location = new System.Drawing.Point(1258, 102);
-            this.button88.Name = "button88";
-            this.button88.Size = new System.Drawing.Size(83, 83);
-            this.button88.TabIndex = 174;
-            this.button88.Text = "ক";
-            this.button88.UseVisualStyleBackColor = true;
-            // 
-            // button89
-            // 
-            this.button89.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button89.Location = new System.Drawing.Point(1436, 191);
-            this.button89.Name = "button89";
-            this.button89.Size = new System.Drawing.Size(83, 83);
-            this.button89.TabIndex = 173;
-            this.button89.Text = "ফ";
-            this.button89.UseVisualStyleBackColor = true;
-            // 
-            // button62
-            // 
-            this.button62.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button62.Location = new System.Drawing.Point(1347, 280);
-            this.button62.Name = "button62";
-            this.button62.Size = new System.Drawing.Size(83, 83);
-            this.button62.TabIndex = 172;
-            this.button62.Text = "ি";
-            this.button62.UseVisualStyleBackColor = true;
-            // 
-            // button63
-            // 
-            this.button63.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button63.Location = new System.Drawing.Point(1169, 102);
-            this.button63.Name = "button63";
-            this.button63.Size = new System.Drawing.Size(83, 83);
-            this.button63.TabIndex = 171;
-            this.button63.Text = "\tঔ";
-            this.button63.UseVisualStyleBackColor = true;
-            // 
-            // test
-            // 
-            this.test.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.test.Location = new System.Drawing.Point(1347, 191);
-            this.test.Name = "test";
-            this.test.Size = new System.Drawing.Size(83, 83);
-            this.test.TabIndex = 170;
-            this.test.Text = "প";
-            this.test.UseVisualStyleBackColor = true;
-            // 
-            // button57
-            // 
-            this.button57.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button57.Location = new System.Drawing.Point(101, 369);
-            this.button57.Name = "button57";
-            this.button57.Size = new System.Drawing.Size(83, 83);
-            this.button57.TabIndex = 169;
-            this.button57.Text = "়";
-            this.button57.UseVisualStyleBackColor = true;
-            // 
-            // button58
-            // 
-            this.button58.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button58.Location = new System.Drawing.Point(1080, 102);
-            this.button58.Name = "button58";
-            this.button58.Size = new System.Drawing.Size(83, 83);
-            this.button58.TabIndex = 168;
-            this.button58.Text = "ও";
-            this.button58.UseVisualStyleBackColor = true;
-            // 
-            // button59
-            // 
-            this.button59.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button59.Location = new System.Drawing.Point(1258, 191);
-            this.button59.Name = "button59";
-            this.button59.Size = new System.Drawing.Size(83, 83);
-            this.button59.TabIndex = 167;
-            this.button59.Text = "ন";
-            this.button59.UseVisualStyleBackColor = true;
-            // 
-            // button52
-            // 
-            this.button52.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button52.Location = new System.Drawing.Point(1080, 280);
-            this.button52.Name = "button52";
-            this.button52.Size = new System.Drawing.Size(83, 83);
-            this.button52.TabIndex = 166;
-            this.button52.Text = "ঃ";
-            this.button52.UseVisualStyleBackColor = true;
-            // 
-            // button53
-            // 
-            this.button53.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button53.Location = new System.Drawing.Point(991, 102);
-            this.button53.Name = "button53";
-            this.button53.Size = new System.Drawing.Size(83, 83);
-            this.button53.TabIndex = 165;
-            this.button53.Text = "ঐ";
-            this.button53.UseVisualStyleBackColor = true;
-            // 
-            // button54
-            // 
-            this.button54.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button54.Location = new System.Drawing.Point(1169, 191);
-            this.button54.Name = "button54";
-            this.button54.Size = new System.Drawing.Size(83, 83);
-            this.button54.TabIndex = 164;
-            this.button54.Text = "ধ";
-            this.button54.UseVisualStyleBackColor = true;
+            this.nineKey.Click += new System.EventHandler(this.nineKey_Click);
+            // 
+            // aiSignModKey
+            // 
+            this.aiSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.aiSignModKey.Location = new System.Drawing.Point(1525, 280);
+            this.aiSignModKey.Name = "aiSignModKey";
+            this.aiSignModKey.Size = new System.Drawing.Size(83, 83);
+            this.aiSignModKey.TabIndex = 197;
+            this.aiSignModKey.Text = "ৈ\t";
+            this.aiSignModKey.UseVisualStyleBackColor = true;
+            this.aiSignModKey.Click += new System.EventHandler(this.aiSignModKey_Click);
+            // 
+            // choKey
+            // 
+            this.choKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.choKey.Location = new System.Drawing.Point(101, 191);
+            this.choKey.Name = "choKey";
+            this.choKey.Size = new System.Drawing.Size(83, 83);
+            this.choKey.TabIndex = 196;
+            this.choKey.Text = "ছ";
+            this.choKey.UseVisualStyleBackColor = true;
+            this.choKey.Click += new System.EventHandler(this.choKey_Click);
+            // 
+            // loKey
+            // 
+            this.loKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.loKey.Location = new System.Drawing.Point(101, 280);
+            this.loKey.Name = "loKey";
+            this.loKey.Size = new System.Drawing.Size(83, 83);
+            this.loKey.TabIndex = 195;
+            this.loKey.Text = "ল";
+            this.loKey.UseVisualStyleBackColor = true;
+            this.loKey.Click += new System.EventHandler(this.loKey_Click);
+            // 
+            // closeKey
+            // 
+            this.closeKey.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.closeKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.closeKey.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.closeKey.Location = new System.Drawing.Point(1703, 369);
+            this.closeKey.Name = "closeKey";
+            this.closeKey.Size = new System.Drawing.Size(172, 83);
+            this.closeKey.TabIndex = 194;
+            this.closeKey.Text = "Close";
+            this.closeKey.UseVisualStyleBackColor = false;
+            this.closeKey.Click += new System.EventHandler(this.closeKey_Click);
+            // 
+            // eSignModKey
+            // 
+            this.eSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.eSignModKey.Location = new System.Drawing.Point(1436, 280);
+            this.eSignModKey.Name = "eSignModKey";
+            this.eSignModKey.Size = new System.Drawing.Size(83, 83);
+            this.eSignModKey.TabIndex = 193;
+            this.eSignModKey.Text = "ে\t";
+            this.eSignModKey.UseVisualStyleBackColor = true;
+            this.eSignModKey.Click += new System.EventHandler(this.eSignModKey_Click);
+            // 
+            // coKey
+            // 
+            this.coKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.coKey.Location = new System.Drawing.Point(12, 191);
+            this.coKey.Name = "coKey";
+            this.coKey.Size = new System.Drawing.Size(83, 83);
+            this.coKey.TabIndex = 192;
+            this.coKey.Text = "চ";
+            this.coKey.UseVisualStyleBackColor = true;
+            this.coKey.Click += new System.EventHandler(this.coKey_Click);
+            // 
+            // rroKey
+            // 
+            this.rroKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.rroKey.Location = new System.Drawing.Point(12, 280);
+            this.rroKey.Name = "rroKey";
+            this.rroKey.Size = new System.Drawing.Size(83, 83);
+            this.rroKey.TabIndex = 191;
+            this.rroKey.Text = "র";
+            this.rroKey.UseVisualStyleBackColor = true;
+            this.rroKey.Click += new System.EventHandler(this.rroKey_Click);
+            // 
+            // rrSignModKey
+            // 
+            this.rrSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.rrSignModKey.Location = new System.Drawing.Point(546, 369);
+            this.rrSignModKey.Name = "rrSignModKey";
+            this.rrSignModKey.Size = new System.Drawing.Size(83, 83);
+            this.rrSignModKey.TabIndex = 190;
+            this.rrSignModKey.Text = "ৄ\t";
+            this.rrSignModKey.UseVisualStyleBackColor = true;
+            this.rrSignModKey.Click += new System.EventHandler(this.rrSignModKey_Click);
+            // 
+            // ngoKey
+            // 
+            this.ngoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.ngoKey.Location = new System.Drawing.Point(1614, 102);
+            this.ngoKey.Name = "ngoKey";
+            this.ngoKey.Size = new System.Drawing.Size(83, 83);
+            this.ngoKey.TabIndex = 189;
+            this.ngoKey.Text = "ঙ";
+            this.ngoKey.UseVisualStyleBackColor = true;
+            this.ngoKey.Click += new System.EventHandler(this.ngoKey_Click);
+            // 
+            // yyoKey
+            // 
+            this.yyoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.yyoKey.Location = new System.Drawing.Point(1792, 191);
+            this.yyoKey.Name = "yyoKey";
+            this.yyoKey.Size = new System.Drawing.Size(83, 83);
+            this.yyoKey.TabIndex = 188;
+            this.yyoKey.Text = "য";
+            this.yyoKey.UseVisualStyleBackColor = true;
+            this.yyoKey.Click += new System.EventHandler(this.yyoKey_Click);
+            // 
+            // questionMarkKey
+            // 
+            this.questionMarkKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.questionMarkKey.Location = new System.Drawing.Point(1614, 369);
+            this.questionMarkKey.Name = "questionMarkKey";
+            this.questionMarkKey.Size = new System.Drawing.Size(83, 83);
+            this.questionMarkKey.TabIndex = 187;
+            this.questionMarkKey.Text = "?";
+            this.questionMarkKey.UseVisualStyleBackColor = true;
+            this.questionMarkKey.Click += new System.EventHandler(this.questionMarkKey_Click);
+            // 
+            // rSoundModKey
+            // 
+            this.rSoundModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.rSoundModKey.Location = new System.Drawing.Point(457, 369);
+            this.rSoundModKey.Name = "rSoundModKey";
+            this.rSoundModKey.Size = new System.Drawing.Size(83, 83);
+            this.rSoundModKey.TabIndex = 186;
+            this.rSoundModKey.Text = "ৃ\t";
+            this.rSoundModKey.UseVisualStyleBackColor = true;
+            this.rSoundModKey.Click += new System.EventHandler(this.rSoundModKey_Click);
+            // 
+            // ghoKey
+            // 
+            this.ghoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.ghoKey.Location = new System.Drawing.Point(1525, 102);
+            this.ghoKey.Name = "ghoKey";
+            this.ghoKey.Size = new System.Drawing.Size(83, 83);
+            this.ghoKey.TabIndex = 185;
+            this.ghoKey.Text = "ঘ";
+            this.ghoKey.UseVisualStyleBackColor = true;
+            this.ghoKey.Click += new System.EventHandler(this.ghoKey_Click);
+            // 
+            // moKey
+            // 
+            this.moKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.moKey.Location = new System.Drawing.Point(1703, 191);
+            this.moKey.Name = "moKey";
+            this.moKey.Size = new System.Drawing.Size(83, 83);
+            this.moKey.TabIndex = 184;
+            this.moKey.Text = "ম";
+            this.moKey.UseVisualStyleBackColor = true;
+            this.moKey.Click += new System.EventHandler(this.moKey_Click);
+            // 
+            // fullStopKey
+            // 
+            this.fullStopKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.fullStopKey.Location = new System.Drawing.Point(1525, 369);
+            this.fullStopKey.Name = "fullStopKey";
+            this.fullStopKey.Size = new System.Drawing.Size(83, 83);
+            this.fullStopKey.TabIndex = 183;
+            this.fullStopKey.Text = ".";
+            this.fullStopKey.UseVisualStyleBackColor = true;
+            this.fullStopKey.Click += new System.EventHandler(this.fullStopKey_Click);
+            // 
+            // uuSignModKey
+            // 
+            this.uuSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.uuSignModKey.Location = new System.Drawing.Point(368, 369);
+            this.uuSignModKey.Name = "uuSignModKey";
+            this.uuSignModKey.Size = new System.Drawing.Size(83, 83);
+            this.uuSignModKey.TabIndex = 182;
+            this.uuSignModKey.Text = "ূ\t";
+            this.uuSignModKey.UseVisualStyleBackColor = true;
+            this.uuSignModKey.Click += new System.EventHandler(this.uuSignModKey_Click);
+            // 
+            // goKey
+            // 
+            this.goKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.goKey.Location = new System.Drawing.Point(1436, 102);
+            this.goKey.Name = "goKey";
+            this.goKey.Size = new System.Drawing.Size(83, 83);
+            this.goKey.TabIndex = 181;
+            this.goKey.Text = "গ";
+            this.goKey.UseVisualStyleBackColor = true;
+            this.goKey.Click += new System.EventHandler(this.goKey_Click);
+            // 
+            // bhoKey
+            // 
+            this.bhoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.bhoKey.Location = new System.Drawing.Point(1614, 191);
+            this.bhoKey.Name = "bhoKey";
+            this.bhoKey.Size = new System.Drawing.Size(83, 83);
+            this.bhoKey.TabIndex = 180;
+            this.bhoKey.Text = "ভ";
+            this.bhoKey.UseVisualStyleBackColor = true;
+            this.bhoKey.Click += new System.EventHandler(this.bhoKey_Click);
+            // 
+            // riiKey
+            // 
+            this.riiKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.riiKey.Location = new System.Drawing.Point(635, 102);
+            this.riiKey.Name = "riiKey";
+            this.riiKey.Size = new System.Drawing.Size(83, 83);
+            this.riiKey.TabIndex = 179;
+            this.riiKey.Text = "ৠ\t";
+            this.riiKey.UseVisualStyleBackColor = true;
+            this.riiKey.Click += new System.EventHandler(this.riiKey_Click);
+            // 
+            // uSignModKey
+            // 
+            this.uSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.uSignModKey.Location = new System.Drawing.Point(279, 369);
+            this.uSignModKey.Name = "uSignModKey";
+            this.uSignModKey.Size = new System.Drawing.Size(83, 83);
+            this.uSignModKey.TabIndex = 178;
+            this.uSignModKey.Text = "ু";
+            this.uSignModKey.UseVisualStyleBackColor = true;
+            this.uSignModKey.Click += new System.EventHandler(this.uSignModKey_Click);
+            // 
+            // khoKey
+            // 
+            this.khoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.khoKey.Location = new System.Drawing.Point(1347, 102);
+            this.khoKey.Name = "khoKey";
+            this.khoKey.Size = new System.Drawing.Size(83, 83);
+            this.khoKey.TabIndex = 177;
+            this.khoKey.Text = "খ";
+            this.khoKey.UseVisualStyleBackColor = true;
+            this.khoKey.Click += new System.EventHandler(this.khoKey_Click);
+            // 
+            // boKey
+            // 
+            this.boKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.boKey.Location = new System.Drawing.Point(1525, 191);
+            this.boKey.Name = "boKey";
+            this.boKey.Size = new System.Drawing.Size(83, 83);
+            this.boKey.TabIndex = 176;
+            this.boKey.Text = "ব";
+            this.boKey.UseVisualStyleBackColor = true;
+            this.boKey.Click += new System.EventHandler(this.boKey_Click);
+            // 
+            // signTwoModKey
+            // 
+            this.signTwoModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.signTwoModKey.Location = new System.Drawing.Point(1258, 280);
+            this.signTwoModKey.Name = "signTwoModKey";
+            this.signTwoModKey.Size = new System.Drawing.Size(83, 83);
+            this.signTwoModKey.TabIndex = 175;
+            this.signTwoModKey.Text = "ী";
+            this.signTwoModKey.UseVisualStyleBackColor = true;
+            this.signTwoModKey.Click += new System.EventHandler(this.signTwoModKey_Click);
+            // 
+            // koKey
+            // 
+            this.koKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.koKey.Location = new System.Drawing.Point(1258, 102);
+            this.koKey.Name = "koKey";
+            this.koKey.Size = new System.Drawing.Size(83, 83);
+            this.koKey.TabIndex = 174;
+            this.koKey.Text = "ক";
+            this.koKey.UseVisualStyleBackColor = true;
+            this.koKey.Click += new System.EventHandler(this.koKey_Click);
+            // 
+            // phoKey
+            // 
+            this.phoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.phoKey.Location = new System.Drawing.Point(1436, 191);
+            this.phoKey.Name = "phoKey";
+            this.phoKey.Size = new System.Drawing.Size(83, 83);
+            this.phoKey.TabIndex = 173;
+            this.phoKey.Text = "ফ";
+            this.phoKey.UseVisualStyleBackColor = true;
+            this.phoKey.Click += new System.EventHandler(this.phoKey_Click);
+            // 
+            // signOneModKey
+            // 
+            this.signOneModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.signOneModKey.Location = new System.Drawing.Point(1347, 280);
+            this.signOneModKey.Name = "signOneModKey";
+            this.signOneModKey.Size = new System.Drawing.Size(83, 83);
+            this.signOneModKey.TabIndex = 172;
+            this.signOneModKey.Text = "ি";
+            this.signOneModKey.UseVisualStyleBackColor = true;
+            this.signOneModKey.Click += new System.EventHandler(this.signOneModKey_Click);
+            // 
+            // ouKey
+            // 
+            this.ouKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.ouKey.Location = new System.Drawing.Point(1169, 102);
+            this.ouKey.Name = "ouKey";
+            this.ouKey.Size = new System.Drawing.Size(83, 83);
+            this.ouKey.TabIndex = 171;
+            this.ouKey.Text = "\tঔ";
+            this.ouKey.UseVisualStyleBackColor = true;
+            this.ouKey.Click += new System.EventHandler(this.ouKey_Click);
+            // 
+            // poKey
+            // 
+            this.poKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.poKey.Location = new System.Drawing.Point(1347, 191);
+            this.poKey.Name = "poKey";
+            this.poKey.Size = new System.Drawing.Size(83, 83);
+            this.poKey.TabIndex = 170;
+            this.poKey.Text = "প";
+            this.poKey.UseVisualStyleBackColor = true;
+            this.poKey.Click += new System.EventHandler(this.poKey_Click);
+            // 
+            // naktaSignModKey
+            // 
+            this.naktaSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.naktaSignModKey.Location = new System.Drawing.Point(101, 369);
+            this.naktaSignModKey.Name = "naktaSignModKey";
+            this.naktaSignModKey.Size = new System.Drawing.Size(83, 83);
+            this.naktaSignModKey.TabIndex = 169;
+            this.naktaSignModKey.Text = "়";
+            this.naktaSignModKey.UseVisualStyleBackColor = true;
+            this.naktaSignModKey.Click += new System.EventHandler(this.naktaSignModKey_Click);
+            // 
+            // oKey
+            // 
+            this.oKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.oKey.Location = new System.Drawing.Point(1080, 102);
+            this.oKey.Name = "oKey";
+            this.oKey.Size = new System.Drawing.Size(83, 83);
+            this.oKey.TabIndex = 168;
+            this.oKey.Text = "ও";
+            this.oKey.UseVisualStyleBackColor = true;
+            this.oKey.Click += new System.EventHandler(this.oKey_Click);
+            // 
+            // nnoKey
+            // 
+            this.nnoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.nnoKey.Location = new System.Drawing.Point(1258, 191);
+            this.nnoKey.Name = "nnoKey";
+            this.nnoKey.Size = new System.Drawing.Size(83, 83);
+            this.nnoKey.TabIndex = 167;
+            this.nnoKey.Text = "ন";
+            this.nnoKey.UseVisualStyleBackColor = true;
+            this.nnoKey.Click += new System.EventHandler(this.nnoKey_Click);
+            // 
+            // visargaModKey
+            // 
+            this.visargaModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.visargaModKey.Location = new System.Drawing.Point(1080, 280);
+            this.visargaModKey.Name = "visargaModKey";
+            this.visargaModKey.Size = new System.Drawing.Size(83, 83);
+            this.visargaModKey.TabIndex = 166;
+            this.visargaModKey.Text = "ঃ";
+            this.visargaModKey.UseVisualStyleBackColor = true;
+            this.visargaModKey.Click += new System.EventHandler(this.visargaModKey_Click);
+            // 
+            // oiKey
+            // 
+            this.oiKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.oiKey.Location = new System.Drawing.Point(991, 102);
+            this.oiKey.Name = "oiKey";
+            this.oiKey.Size = new System.Drawing.Size(83, 83);
+            this.oiKey.TabIndex = 165;
+            this.oiKey.Text = "ঐ";
+            this.oiKey.UseVisualStyleBackColor = true;
+            this.oiKey.Click += new System.EventHandler(this.oiKey_Click);
+            // 
+            // ddhoKey
+            // 
+            this.ddhoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.ddhoKey.Location = new System.Drawing.Point(1169, 191);
+            this.ddhoKey.Name = "ddhoKey";
+            this.ddhoKey.Size = new System.Drawing.Size(83, 83);
+            this.ddhoKey.TabIndex = 164;
+            this.ddhoKey.Text = "ধ";
+            this.ddhoKey.UseVisualStyleBackColor = true;
+            this.ddhoKey.Click += new System.EventHandler(this.ddhoKey_Click);
             // 
             // takaKey
             // 
@@ -671,36 +724,40 @@ namespace simpleBenglaKeyboardProject
             this.takaKey.TabIndex = 163;
             this.takaKey.Text = "৳";
             this.takaKey.UseVisualStyleBackColor = true;
+            this.takaKey.Click += new System.EventHandler(this.takaKey_Click);
             // 
-            // button47
+            // anusvaraModKey
             // 
-            this.button47.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button47.Location = new System.Drawing.Point(991, 280);
-            this.button47.Name = "button47";
-            this.button47.Size = new System.Drawing.Size(83, 83);
-            this.button47.TabIndex = 162;
-            this.button47.Text = "ং";
-            this.button47.UseVisualStyleBackColor = true;
+            this.anusvaraModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.anusvaraModKey.Location = new System.Drawing.Point(991, 280);
+            this.anusvaraModKey.Name = "anusvaraModKey";
+            this.anusvaraModKey.Size = new System.Drawing.Size(83, 83);
+            this.anusvaraModKey.TabIndex = 162;
+            this.anusvaraModKey.Text = "ং";
+            this.anusvaraModKey.UseVisualStyleBackColor = true;
+            this.anusvaraModKey.Click += new System.EventHandler(this.anusvaraModKey_Click);
             // 
-            // button48
+            // eKey
             // 
-            this.button48.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button48.Location = new System.Drawing.Point(902, 102);
-            this.button48.Name = "button48";
-            this.button48.Size = new System.Drawing.Size(83, 83);
-            this.button48.TabIndex = 161;
-            this.button48.Text = "এ";
-            this.button48.UseVisualStyleBackColor = true;
+            this.eKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.eKey.Location = new System.Drawing.Point(902, 102);
+            this.eKey.Name = "eKey";
+            this.eKey.Size = new System.Drawing.Size(83, 83);
+            this.eKey.TabIndex = 161;
+            this.eKey.Text = "এ";
+            this.eKey.UseVisualStyleBackColor = true;
+            this.eKey.Click += new System.EventHandler(this.eKey_Click);
             // 
-            // button49
+            // ddoKey
             // 
-            this.button49.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button49.Location = new System.Drawing.Point(1080, 191);
-            this.button49.Name = "button49";
-            this.button49.Size = new System.Drawing.Size(83, 83);
-            this.button49.TabIndex = 160;
-            this.button49.Text = "দ\t";
-            this.button49.UseVisualStyleBackColor = true;
+            this.ddoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.ddoKey.Location = new System.Drawing.Point(1080, 191);
+            this.ddoKey.Name = "ddoKey";
+            this.ddoKey.Size = new System.Drawing.Size(83, 83);
+            this.ddoKey.TabIndex = 160;
+            this.ddoKey.Text = "দ\t";
+            this.ddoKey.UseVisualStyleBackColor = true;
+            this.ddoKey.Click += new System.EventHandler(this.ddoKey_Click);
             // 
             // noyKey
             // 
@@ -711,56 +768,62 @@ namespace simpleBenglaKeyboardProject
             this.noyKey.TabIndex = 159;
             this.noyKey.Text = "৯";
             this.noyKey.UseVisualStyleBackColor = true;
+            this.noyKey.Click += new System.EventHandler(this.noyKey_Click);
             // 
-            // button42
+            // candravinduSignModKey
             // 
-            this.button42.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button42.Location = new System.Drawing.Point(12, 369);
-            this.button42.Name = "button42";
-            this.button42.Size = new System.Drawing.Size(83, 83);
-            this.button42.TabIndex = 158;
-            this.button42.Text = "ঁ";
-            this.button42.UseVisualStyleBackColor = true;
+            this.candravinduSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.candravinduSignModKey.Location = new System.Drawing.Point(12, 369);
+            this.candravinduSignModKey.Name = "candravinduSignModKey";
+            this.candravinduSignModKey.Size = new System.Drawing.Size(83, 83);
+            this.candravinduSignModKey.TabIndex = 158;
+            this.candravinduSignModKey.Text = "ঁ";
+            this.candravinduSignModKey.UseVisualStyleBackColor = true;
+            this.candravinduSignModKey.Click += new System.EventHandler(this.candravinduSignModKey_Click);
             // 
-            // button43
+            // liiKey
             // 
-            this.button43.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button43.Location = new System.Drawing.Point(813, 102);
-            this.button43.Name = "button43";
-            this.button43.Size = new System.Drawing.Size(83, 83);
-            this.button43.TabIndex = 157;
-            this.button43.Text = "ৡ";
-            this.button43.UseVisualStyleBackColor = true;
+            this.liiKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.liiKey.Location = new System.Drawing.Point(813, 102);
+            this.liiKey.Name = "liiKey";
+            this.liiKey.Size = new System.Drawing.Size(83, 83);
+            this.liiKey.TabIndex = 157;
+            this.liiKey.Text = "ৡ";
+            this.liiKey.UseVisualStyleBackColor = true;
+            this.liiKey.Click += new System.EventHandler(this.liiKey_Click);
             // 
-            // button44
+            // tthoKey
             // 
-            this.button44.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button44.Location = new System.Drawing.Point(991, 191);
-            this.button44.Name = "button44";
-            this.button44.Size = new System.Drawing.Size(83, 83);
-            this.button44.TabIndex = 156;
-            this.button44.Text = "থ";
-            this.button44.UseVisualStyleBackColor = true;
+            this.tthoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.tthoKey.Location = new System.Drawing.Point(991, 191);
+            this.tthoKey.Name = "tthoKey";
+            this.tthoKey.Size = new System.Drawing.Size(83, 83);
+            this.tthoKey.TabIndex = 156;
+            this.tthoKey.Text = "থ";
+            this.tthoKey.UseVisualStyleBackColor = true;
+            this.tthoKey.Click += new System.EventHandler(this.tthoKey_Click);
             // 
-            // button45
+            // liKey
             // 
-            this.button45.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button45.Location = new System.Drawing.Point(724, 102);
-            this.button45.Name = "button45";
-            this.button45.Size = new System.Drawing.Size(83, 83);
-            this.button45.TabIndex = 155;
-            this.button45.Text = "ঌ";
-            this.button45.UseVisualStyleBackColor = true;
+            this.liKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.liKey.Location = new System.Drawing.Point(724, 102);
+            this.liKey.Name = "liKey";
+            this.liKey.Size = new System.Drawing.Size(83, 83);
+            this.liKey.TabIndex = 155;
+            this.liKey.Text = "ঌ";
+            this.liKey.UseVisualStyleBackColor = true;
+            this.liKey.Click += new System.EventHandler(this.liKey_Click);
             // 
-            // button37
+            // raaKey
             // 
-            this.button37.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button37.Location = new System.Drawing.Point(902, 280);
-            this.button37.Name = "button37";
-            this.button37.Size = new System.Drawing.Size(83, 83);
-            this.button37.TabIndex = 154;
-            this.button37.Text = "ৱ";
-            this.button37.UseVisualStyleBackColor = true;
+            this.raaKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.raaKey.Location = new System.Drawing.Point(902, 280);
+            this.raaKey.Name = "raaKey";
+            this.raaKey.Size = new System.Drawing.Size(83, 83);
+            this.raaKey.TabIndex = 154;
+            this.raaKey.Text = "ৱ";
+            this.raaKey.UseVisualStyleBackColor = true;
+            this.raaKey.Click += new System.EventHandler(this.raaKey_Click);
             // 
             // atKey
             // 
@@ -771,276 +834,293 @@ namespace simpleBenglaKeyboardProject
             this.atKey.TabIndex = 153;
             this.atKey.Text = "৮";
             this.atKey.UseVisualStyleBackColor = true;
+            this.atKey.Click += new System.EventHandler(this.atKey_Click);
             // 
-            // button39
+            // ttoKey
             // 
-            this.button39.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button39.Location = new System.Drawing.Point(902, 191);
-            this.button39.Name = "button39";
-            this.button39.Size = new System.Drawing.Size(83, 83);
-            this.button39.TabIndex = 152;
-            this.button39.Text = "ত";
-            this.button39.UseVisualStyleBackColor = true;
+            this.ttoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.ttoKey.Location = new System.Drawing.Point(902, 191);
+            this.ttoKey.Name = "ttoKey";
+            this.ttoKey.Size = new System.Drawing.Size(83, 83);
+            this.ttoKey.TabIndex = 152;
+            this.ttoKey.Text = "ত";
+            this.ttoKey.UseVisualStyleBackColor = true;
+            this.ttoKey.Click += new System.EventHandler(this.ttoKey_Click);
             // 
-            // button40
+            // riKey
             // 
-            this.button40.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button40.Location = new System.Drawing.Point(546, 102);
-            this.button40.Name = "button40";
-            this.button40.Size = new System.Drawing.Size(83, 83);
-            this.button40.TabIndex = 151;
-            this.button40.Text = "ঋ";
-            this.button40.UseVisualStyleBackColor = true;
+            this.riKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.riKey.Location = new System.Drawing.Point(546, 102);
+            this.riKey.Name = "riKey";
+            this.riKey.Size = new System.Drawing.Size(83, 83);
+            this.riKey.TabIndex = 151;
+            this.riKey.Text = "ঋ";
+            this.riKey.UseVisualStyleBackColor = true;
+            this.riKey.Click += new System.EventHandler(this.riKey_Click);
             // 
-            // button32
+            // raKey
             // 
-            this.button32.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button32.Location = new System.Drawing.Point(813, 280);
-            this.button32.Name = "button32";
-            this.button32.Size = new System.Drawing.Size(83, 83);
-            this.button32.TabIndex = 150;
-            this.button32.Text = "ৰ";
-            this.button32.UseVisualStyleBackColor = true;
+            this.raKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.raKey.Location = new System.Drawing.Point(813, 280);
+            this.raKey.Name = "raKey";
+            this.raKey.Size = new System.Drawing.Size(83, 83);
+            this.raKey.TabIndex = 150;
+            this.raKey.Text = "ৰ";
+            this.raKey.UseVisualStyleBackColor = true;
+            this.raKey.Click += new System.EventHandler(this.raKey_Click);
             // 
-            // button34
+            // noKey
             // 
-            this.button34.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button34.Location = new System.Drawing.Point(813, 191);
-            this.button34.Name = "button34";
-            this.button34.Size = new System.Drawing.Size(83, 83);
-            this.button34.TabIndex = 148;
-            this.button34.Text = "ণ";
-            this.button34.UseVisualStyleBackColor = true;
+            this.noKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.noKey.Location = new System.Drawing.Point(813, 191);
+            this.noKey.Name = "noKey";
+            this.noKey.Size = new System.Drawing.Size(83, 83);
+            this.noKey.TabIndex = 148;
+            this.noKey.Text = "ণ";
+            this.noKey.UseVisualStyleBackColor = true;
+            this.noKey.Click += new System.EventHandler(this.noKey_Click);
             // 
-            // button35
+            // uuKey
             // 
-            this.button35.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button35.Location = new System.Drawing.Point(457, 102);
-            this.button35.Name = "button35";
-            this.button35.Size = new System.Drawing.Size(83, 83);
-            this.button35.TabIndex = 147;
-            this.button35.Text = "ঊ";
-            this.button35.UseVisualStyleBackColor = true;
+            this.uuKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.uuKey.Location = new System.Drawing.Point(457, 102);
+            this.uuKey.Name = "uuKey";
+            this.uuKey.Size = new System.Drawing.Size(83, 83);
+            this.uuKey.TabIndex = 147;
+            this.uuKey.Text = "ঊ";
+            this.uuKey.UseVisualStyleBackColor = true;
+            this.uuKey.Click += new System.EventHandler(this.uuKey_Click);
             // 
-            // button27
+            // yoKey
             // 
-            this.button27.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button27.Location = new System.Drawing.Point(724, 280);
-            this.button27.Name = "button27";
-            this.button27.Size = new System.Drawing.Size(83, 83);
-            this.button27.TabIndex = 146;
-            this.button27.Text = "য়";
-            this.button27.UseVisualStyleBackColor = true;
+            this.yoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.yoKey.Location = new System.Drawing.Point(546, 280);
+            this.yoKey.Name = "yoKey";
+            this.yoKey.Size = new System.Drawing.Size(83, 83);
+            this.yoKey.TabIndex = 146;
+            this.yoKey.Text = "য়";
+            this.yoKey.UseVisualStyleBackColor = true;
+            this.yoKey.Click += new System.EventHandler(this.yoKey_Click);
             // 
-            // button29
+            // dhoKey
             // 
-            this.button29.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button29.Location = new System.Drawing.Point(724, 191);
-            this.button29.Name = "button29";
-            this.button29.Size = new System.Drawing.Size(83, 83);
-            this.button29.TabIndex = 144;
-            this.button29.Text = "ঢ";
-            this.button29.UseVisualStyleBackColor = true;
+            this.dhoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.dhoKey.Location = new System.Drawing.Point(724, 191);
+            this.dhoKey.Name = "dhoKey";
+            this.dhoKey.Size = new System.Drawing.Size(83, 83);
+            this.dhoKey.TabIndex = 144;
+            this.dhoKey.Text = "ঢ";
+            this.dhoKey.UseVisualStyleBackColor = true;
+            this.dhoKey.Click += new System.EventHandler(this.dhoKey_Click);
             // 
-            // button30
+            // uKey
             // 
-            this.button30.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button30.Location = new System.Drawing.Point(368, 102);
-            this.button30.Name = "button30";
-            this.button30.Size = new System.Drawing.Size(83, 83);
-            this.button30.TabIndex = 143;
-            this.button30.Text = "উ";
-            this.button30.UseVisualStyleBackColor = true;
+            this.uKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.uKey.Location = new System.Drawing.Point(368, 102);
+            this.uKey.Name = "uKey";
+            this.uKey.Size = new System.Drawing.Size(83, 83);
+            this.uKey.TabIndex = 143;
+            this.uKey.Text = "উ";
+            this.uKey.UseVisualStyleBackColor = true;
+            this.uKey.Click += new System.EventHandler(this.uKey_Click);
             // 
-            // button21
+            // rhoKey
             // 
-            this.button21.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button21.Location = new System.Drawing.Point(1436, 369);
-            this.button21.Name = "button21";
-            this.button21.Size = new System.Drawing.Size(83, 83);
-            this.button21.TabIndex = 142;
-            this.button21.Text = ",";
-            this.button21.UseVisualStyleBackColor = true;
+            this.rhoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.rhoKey.Location = new System.Drawing.Point(724, 280);
+            this.rhoKey.Name = "rhoKey";
+            this.rhoKey.Size = new System.Drawing.Size(83, 83);
+            this.rhoKey.TabIndex = 141;
+            this.rhoKey.Text = "ঢ়";
+            this.rhoKey.UseVisualStyleBackColor = true;
+            this.rhoKey.Click += new System.EventHandler(this.rhoKey_Click);
             // 
-            // button22
+            // doKey
             // 
-            this.button22.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button22.Location = new System.Drawing.Point(635, 280);
-            this.button22.Name = "button22";
-            this.button22.Size = new System.Drawing.Size(83, 83);
-            this.button22.TabIndex = 141;
-            this.button22.Text = "ঢ়";
-            this.button22.UseVisualStyleBackColor = true;
+            this.doKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.doKey.Location = new System.Drawing.Point(635, 191);
+            this.doKey.Name = "doKey";
+            this.doKey.Size = new System.Drawing.Size(83, 83);
+            this.doKey.TabIndex = 139;
+            this.doKey.Text = "\tড";
+            this.doKey.UseVisualStyleBackColor = true;
+            this.doKey.Click += new System.EventHandler(this.doKey_Click);
             // 
-            // button24
+            // iiKey
             // 
-            this.button24.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button24.Location = new System.Drawing.Point(635, 191);
-            this.button24.Name = "button24";
-            this.button24.Size = new System.Drawing.Size(83, 83);
-            this.button24.TabIndex = 139;
-            this.button24.Text = "\tড";
-            this.button24.UseVisualStyleBackColor = true;
+            this.iiKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.iiKey.Location = new System.Drawing.Point(279, 102);
+            this.iiKey.Name = "iiKey";
+            this.iiKey.Size = new System.Drawing.Size(83, 83);
+            this.iiKey.TabIndex = 138;
+            this.iiKey.Text = "ঈ";
+            this.iiKey.UseVisualStyleBackColor = true;
+            this.iiKey.Click += new System.EventHandler(this.iiKey_Click);
             // 
-            // button25
+            // aaVowelSignModKey
             // 
-            this.button25.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button25.Location = new System.Drawing.Point(279, 102);
-            this.button25.Name = "button25";
-            this.button25.Size = new System.Drawing.Size(83, 83);
-            this.button25.TabIndex = 138;
-            this.button25.Text = "ঈ";
-            this.button25.UseVisualStyleBackColor = true;
+            this.aaVowelSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.aaVowelSignModKey.Location = new System.Drawing.Point(1169, 280);
+            this.aaVowelSignModKey.Name = "aaVowelSignModKey";
+            this.aaVowelSignModKey.Size = new System.Drawing.Size(83, 83);
+            this.aaVowelSignModKey.TabIndex = 137;
+            this.aaVowelSignModKey.Text = "া";
+            this.aaVowelSignModKey.UseVisualStyleBackColor = true;
+            this.aaVowelSignModKey.Click += new System.EventHandler(this.aaVowelSignModKey_Click);
             // 
-            // button16
+            // roKey
             // 
-            this.button16.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button16.Location = new System.Drawing.Point(1169, 280);
-            this.button16.Name = "button16";
-            this.button16.Size = new System.Drawing.Size(83, 83);
-            this.button16.TabIndex = 137;
-            this.button16.Text = "া";
-            this.button16.UseVisualStyleBackColor = true;
+            this.roKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.roKey.Location = new System.Drawing.Point(635, 280);
+            this.roKey.Name = "roKey";
+            this.roKey.Size = new System.Drawing.Size(83, 83);
+            this.roKey.TabIndex = 136;
+            this.roKey.Text = "ড়";
+            this.roKey.UseVisualStyleBackColor = true;
+            this.roKey.Click += new System.EventHandler(this.roKey_Click);
             // 
-            // button17
+            // thoKey
             // 
-            this.button17.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button17.Location = new System.Drawing.Point(546, 280);
-            this.button17.Name = "button17";
-            this.button17.Size = new System.Drawing.Size(83, 83);
-            this.button17.TabIndex = 136;
-            this.button17.Text = "ড়";
-            this.button17.UseVisualStyleBackColor = true;
+            this.thoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.thoKey.Location = new System.Drawing.Point(546, 191);
+            this.thoKey.Name = "thoKey";
+            this.thoKey.Size = new System.Drawing.Size(83, 83);
+            this.thoKey.TabIndex = 134;
+            this.thoKey.Text = "ঠ";
+            this.thoKey.UseVisualStyleBackColor = true;
+            this.thoKey.Click += new System.EventHandler(this.thoKey_Click);
             // 
-            // button19
+            // auTwoModKey
             // 
-            this.button19.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button19.Location = new System.Drawing.Point(546, 191);
-            this.button19.Name = "button19";
-            this.button19.Size = new System.Drawing.Size(83, 83);
-            this.button19.TabIndex = 134;
-            this.button19.Text = "ঠ";
-            this.button19.UseVisualStyleBackColor = true;
+            this.auTwoModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.auTwoModKey.Location = new System.Drawing.Point(1792, 280);
+            this.auTwoModKey.Name = "auTwoModKey";
+            this.auTwoModKey.Size = new System.Drawing.Size(83, 83);
+            this.auTwoModKey.TabIndex = 132;
+            this.auTwoModKey.Text = "ৗ\t";
+            this.auTwoModKey.UseVisualStyleBackColor = true;
+            this.auTwoModKey.Click += new System.EventHandler(this.auTwoModKey_Click);
             // 
-            // button11
+            // hoKey
             // 
-            this.button11.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button11.Location = new System.Drawing.Point(1792, 280);
-            this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(83, 83);
-            this.button11.TabIndex = 132;
-            this.button11.Text = "ৗ\t";
-            this.button11.UseVisualStyleBackColor = true;
+            this.hoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.hoKey.Location = new System.Drawing.Point(457, 280);
+            this.hoKey.Name = "hoKey";
+            this.hoKey.Size = new System.Drawing.Size(83, 83);
+            this.hoKey.TabIndex = 131;
+            this.hoKey.Text = "হ";
+            this.hoKey.UseVisualStyleBackColor = true;
+            this.hoKey.Click += new System.EventHandler(this.hoKey_Click);
             // 
-            // button12
+            // toKey
             // 
-            this.button12.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button12.Location = new System.Drawing.Point(457, 280);
-            this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(83, 83);
-            this.button12.TabIndex = 131;
-            this.button12.Text = "হ";
-            this.button12.UseVisualStyleBackColor = true;
+            this.toKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.toKey.Location = new System.Drawing.Point(457, 191);
+            this.toKey.Name = "toKey";
+            this.toKey.Size = new System.Drawing.Size(83, 83);
+            this.toKey.TabIndex = 129;
+            this.toKey.Text = "ট";
+            this.toKey.UseVisualStyleBackColor = true;
+            this.toKey.Click += new System.EventHandler(this.toKey_Click);
             // 
-            // button14
+            // iKey
             // 
-            this.button14.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button14.Location = new System.Drawing.Point(457, 191);
-            this.button14.Name = "button14";
-            this.button14.Size = new System.Drawing.Size(83, 83);
-            this.button14.TabIndex = 129;
-            this.button14.Text = "ট";
-            this.button14.UseVisualStyleBackColor = true;
+            this.iKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.iKey.Location = new System.Drawing.Point(190, 102);
+            this.iKey.Name = "iKey";
+            this.iKey.Size = new System.Drawing.Size(83, 83);
+            this.iKey.TabIndex = 128;
+            this.iKey.Text = "ই";
+            this.iKey.UseVisualStyleBackColor = true;
+            this.iKey.Click += new System.EventHandler(this.iKey_Click);
             // 
-            // button15
+            // vimraSignModKey
             // 
-            this.button15.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button15.Location = new System.Drawing.Point(190, 102);
-            this.button15.Name = "button15";
-            this.button15.Size = new System.Drawing.Size(83, 83);
-            this.button15.TabIndex = 128;
-            this.button15.Text = "ই";
-            this.button15.UseVisualStyleBackColor = true;
+            this.vimraSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.vimraSignModKey.Location = new System.Drawing.Point(190, 369);
+            this.vimraSignModKey.Name = "vimraSignModKey";
+            this.vimraSignModKey.Size = new System.Drawing.Size(83, 83);
+            this.vimraSignModKey.TabIndex = 127;
+            this.vimraSignModKey.Text = "্";
+            this.vimraSignModKey.UseVisualStyleBackColor = true;
+            this.vimraSignModKey.Click += new System.EventHandler(this.vimraSignModKey_Click);
             // 
-            // button6
+            // ssooKey
             // 
-            this.button6.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button6.Location = new System.Drawing.Point(190, 369);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(83, 83);
-            this.button6.TabIndex = 127;
-            this.button6.Text = "্";
-            this.button6.UseVisualStyleBackColor = true;
+            this.ssooKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.ssooKey.Location = new System.Drawing.Point(368, 280);
+            this.ssooKey.Name = "ssooKey";
+            this.ssooKey.Size = new System.Drawing.Size(83, 83);
+            this.ssooKey.TabIndex = 126;
+            this.ssooKey.Text = "স";
+            this.ssooKey.UseVisualStyleBackColor = true;
+            this.ssooKey.Click += new System.EventHandler(this.ssooKey_Click);
             // 
-            // button7
+            // nnooKey
             // 
-            this.button7.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button7.Location = new System.Drawing.Point(368, 280);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(83, 83);
-            this.button7.TabIndex = 126;
-            this.button7.Text = "স";
-            this.button7.UseVisualStyleBackColor = true;
+            this.nnooKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.nnooKey.Location = new System.Drawing.Point(368, 191);
+            this.nnooKey.Name = "nnooKey";
+            this.nnooKey.Size = new System.Drawing.Size(83, 83);
+            this.nnooKey.TabIndex = 124;
+            this.nnooKey.Text = "ঞ";
+            this.nnooKey.UseVisualStyleBackColor = true;
+            this.nnooKey.Click += new System.EventHandler(this.nnooKey_Click);
             // 
-            // button9
+            // aaKey
             // 
-            this.button9.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button9.Location = new System.Drawing.Point(368, 191);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(83, 83);
-            this.button9.TabIndex = 124;
-            this.button9.Text = "ঞ";
-            this.button9.UseVisualStyleBackColor = true;
+            this.aaKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.aaKey.Location = new System.Drawing.Point(101, 102);
+            this.aaKey.Name = "aaKey";
+            this.aaKey.Size = new System.Drawing.Size(83, 83);
+            this.aaKey.TabIndex = 123;
+            this.aaKey.Text = "আ";
+            this.aaKey.UseVisualStyleBackColor = true;
+            this.aaKey.Click += new System.EventHandler(this.aaKey_Click);
             // 
-            // button10
+            // auSignModKey
             // 
-            this.button10.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button10.Location = new System.Drawing.Point(101, 102);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(83, 83);
-            this.button10.TabIndex = 123;
-            this.button10.Text = "আ";
-            this.button10.UseVisualStyleBackColor = true;
+            this.auSignModKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.auSignModKey.Location = new System.Drawing.Point(1703, 280);
+            this.auSignModKey.Name = "auSignModKey";
+            this.auSignModKey.Size = new System.Drawing.Size(83, 83);
+            this.auSignModKey.TabIndex = 122;
+            this.auSignModKey.Text = "ৌ";
+            this.auSignModKey.UseVisualStyleBackColor = true;
+            this.auSignModKey.Click += new System.EventHandler(this.auSignModKey_Click);
             // 
-            // button5
+            // soKey
             // 
-            this.button5.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button5.Location = new System.Drawing.Point(1703, 280);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(83, 83);
-            this.button5.TabIndex = 122;
-            this.button5.Text = "ৌ";
-            this.button5.UseVisualStyleBackColor = true;
+            this.soKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.soKey.Location = new System.Drawing.Point(279, 280);
+            this.soKey.Name = "soKey";
+            this.soKey.Size = new System.Drawing.Size(83, 83);
+            this.soKey.TabIndex = 121;
+            this.soKey.Text = "ষ";
+            this.soKey.UseVisualStyleBackColor = true;
+            this.soKey.Click += new System.EventHandler(this.soKey_Click);
             // 
-            // button4
+            // jhoKey
             // 
-            this.button4.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button4.Location = new System.Drawing.Point(279, 280);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(83, 83);
-            this.button4.TabIndex = 121;
-            this.button4.Text = "ষ";
-            this.button4.UseVisualStyleBackColor = true;
+            this.jhoKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.jhoKey.Location = new System.Drawing.Point(279, 191);
+            this.jhoKey.Name = "jhoKey";
+            this.jhoKey.Size = new System.Drawing.Size(83, 83);
+            this.jhoKey.TabIndex = 119;
+            this.jhoKey.Text = "ঝ";
+            this.jhoKey.UseVisualStyleBackColor = true;
+            this.jhoKey.Click += new System.EventHandler(this.jhoKey_Click);
             // 
-            // button2
+            // aKey
             // 
-            this.button2.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button2.Location = new System.Drawing.Point(279, 191);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(83, 83);
-            this.button2.TabIndex = 119;
-            this.button2.Text = "ঝ";
-            this.button2.UseVisualStyleBackColor = true;
-            // 
-            // button1
-            // 
-            this.button1.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button1.Location = new System.Drawing.Point(12, 102);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(83, 83);
-            this.button1.TabIndex = 118;
-            this.button1.Text = "অ";
-            this.button1.UseVisualStyleBackColor = true;
+            this.aKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.aKey.Location = new System.Drawing.Point(12, 102);
+            this.aKey.Name = "aKey";
+            this.aKey.Size = new System.Drawing.Size(83, 83);
+            this.aKey.TabIndex = 118;
+            this.aKey.Text = "অ";
+            this.aKey.UseVisualStyleBackColor = true;
+            this.aKey.Click += new System.EventHandler(this.aKey_Click);
             // 
             // tinKey
             // 
@@ -1051,6 +1131,7 @@ namespace simpleBenglaKeyboardProject
             this.tinKey.TabIndex = 225;
             this.tinKey.Text = "৩";
             this.tinKey.UseVisualStyleBackColor = true;
+            this.tinKey.Click += new System.EventHandler(this.tinKey_Click);
             // 
             // shatKey
             // 
@@ -1061,6 +1142,7 @@ namespace simpleBenglaKeyboardProject
             this.shatKey.TabIndex = 224;
             this.shatKey.Text = "৭";
             this.shatKey.UseVisualStyleBackColor = true;
+            this.shatKey.Click += new System.EventHandler(this.shatKey_Click);
             // 
             // chchoyKey
             // 
@@ -1071,6 +1153,7 @@ namespace simpleBenglaKeyboardProject
             this.chchoyKey.TabIndex = 223;
             this.chchoyKey.Text = "৬";
             this.chchoyKey.UseVisualStyleBackColor = true;
+            this.chchoyKey.Click += new System.EventHandler(this.chchoyKey_Click);
             // 
             // paanchKey
             // 
@@ -1081,6 +1164,7 @@ namespace simpleBenglaKeyboardProject
             this.paanchKey.TabIndex = 222;
             this.paanchKey.Text = "৫";
             this.paanchKey.UseVisualStyleBackColor = true;
+            this.paanchKey.Click += new System.EventHandler(this.paanchKey_Click);
             // 
             // chaaKey
             // 
@@ -1091,6 +1175,7 @@ namespace simpleBenglaKeyboardProject
             this.chaaKey.TabIndex = 221;
             this.chaaKey.Text = "৪";
             this.chaaKey.UseVisualStyleBackColor = true;
+            this.chaaKey.Click += new System.EventHandler(this.chaaKey_Click);
             // 
             // duiKey
             // 
@@ -1101,6 +1186,7 @@ namespace simpleBenglaKeyboardProject
             this.duiKey.TabIndex = 220;
             this.duiKey.Text = "২";
             this.duiKey.UseVisualStyleBackColor = true;
+            this.duiKey.Click += new System.EventHandler(this.duiKey_Click);
             // 
             // ekKey
             // 
@@ -1124,12 +1210,24 @@ namespace simpleBenglaKeyboardProject
             this.shoonnoKey.UseVisualStyleBackColor = true;
             this.shoonnoKey.Click += new System.EventHandler(this.shoonnoKey_Click);
             // 
+            // commaKey
+            // 
+            this.commaKey.Font = new System.Drawing.Font("Segoe UI Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.commaKey.Location = new System.Drawing.Point(1436, 369);
+            this.commaKey.Name = "commaKey";
+            this.commaKey.Size = new System.Drawing.Size(83, 83);
+            this.commaKey.TabIndex = 226;
+            this.commaKey.Text = ",";
+            this.commaKey.UseVisualStyleBackColor = true;
+            this.commaKey.Click += new System.EventHandler(this.commaKey_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.ClientSize = new System.Drawing.Size(1887, 465);
+            this.Controls.Add(this.commaKey);
             this.Controls.Add(this.tinKey);
             this.Controls.Add(this.shatKey);
             this.Controls.Add(this.chchoyKey);
@@ -1138,10 +1236,10 @@ namespace simpleBenglaKeyboardProject
             this.Controls.Add(this.duiKey);
             this.Controls.Add(this.ekKey);
             this.Controls.Add(this.shoonnoKey);
-            this.Controls.Add(this.button26);
-            this.Controls.Add(this.button31);
-            this.Controls.Add(this.button75);
-            this.Controls.Add(this.button80);
+            this.Controls.Add(this.avagrahaKey);
+            this.Controls.Add(this.taKey);
+            this.Controls.Add(this.llSignModKey);
+            this.Controls.Add(this.lSignModKey);
             this.Controls.Add(this.eightKey);
             this.Controls.Add(this.sevenKey);
             this.Controls.Add(this.sixKey);
@@ -1150,85 +1248,84 @@ namespace simpleBenglaKeyboardProject
             this.Controls.Add(this.threeKey);
             this.Controls.Add(this.twoKey);
             this.Controls.Add(this.oneKey);
-            this.Controls.Add(this.button36);
+            this.Controls.Add(this.spaceKey);
             this.Controls.Add(this.zeroKey);
-            this.Controls.Add(this.button102);
-            this.Controls.Add(this.button103);
-            this.Controls.Add(this.button104);
-            this.Controls.Add(this.button105);
+            this.Controls.Add(this.oSignModKey);
+            this.Controls.Add(this.joKey);
+            this.Controls.Add(this.ssoKey);
+            this.Controls.Add(this.backSpaceKey);
             this.Controls.Add(this.nineKey);
-            this.Controls.Add(this.button92);
-            this.Controls.Add(this.button93);
-            this.Controls.Add(this.button94);
-            this.Controls.Add(this.button96);
-            this.Controls.Add(this.button97);
-            this.Controls.Add(this.button98);
-            this.Controls.Add(this.button99);
-            this.Controls.Add(this.button67);
-            this.Controls.Add(this.button68);
-            this.Controls.Add(this.button69);
-            this.Controls.Add(this.button71);
-            this.Controls.Add(this.button72);
-            this.Controls.Add(this.button73);
-            this.Controls.Add(this.button74);
-            this.Controls.Add(this.button76);
-            this.Controls.Add(this.button77);
-            this.Controls.Add(this.button78);
-            this.Controls.Add(this.button79);
-            this.Controls.Add(this.button81);
-            this.Controls.Add(this.button82);
-            this.Controls.Add(this.button83);
-            this.Controls.Add(this.button84);
-            this.Controls.Add(this.button87);
-            this.Controls.Add(this.button88);
-            this.Controls.Add(this.button89);
-            this.Controls.Add(this.button62);
-            this.Controls.Add(this.button63);
-            this.Controls.Add(this.test);
-            this.Controls.Add(this.button57);
-            this.Controls.Add(this.button58);
-            this.Controls.Add(this.button59);
-            this.Controls.Add(this.button52);
-            this.Controls.Add(this.button53);
-            this.Controls.Add(this.button54);
+            this.Controls.Add(this.aiSignModKey);
+            this.Controls.Add(this.choKey);
+            this.Controls.Add(this.loKey);
+            this.Controls.Add(this.closeKey);
+            this.Controls.Add(this.eSignModKey);
+            this.Controls.Add(this.coKey);
+            this.Controls.Add(this.rroKey);
+            this.Controls.Add(this.rrSignModKey);
+            this.Controls.Add(this.ngoKey);
+            this.Controls.Add(this.yyoKey);
+            this.Controls.Add(this.questionMarkKey);
+            this.Controls.Add(this.rSoundModKey);
+            this.Controls.Add(this.ghoKey);
+            this.Controls.Add(this.moKey);
+            this.Controls.Add(this.fullStopKey);
+            this.Controls.Add(this.uuSignModKey);
+            this.Controls.Add(this.goKey);
+            this.Controls.Add(this.bhoKey);
+            this.Controls.Add(this.riiKey);
+            this.Controls.Add(this.uSignModKey);
+            this.Controls.Add(this.khoKey);
+            this.Controls.Add(this.boKey);
+            this.Controls.Add(this.signTwoModKey);
+            this.Controls.Add(this.koKey);
+            this.Controls.Add(this.phoKey);
+            this.Controls.Add(this.signOneModKey);
+            this.Controls.Add(this.ouKey);
+            this.Controls.Add(this.poKey);
+            this.Controls.Add(this.naktaSignModKey);
+            this.Controls.Add(this.oKey);
+            this.Controls.Add(this.nnoKey);
+            this.Controls.Add(this.visargaModKey);
+            this.Controls.Add(this.oiKey);
+            this.Controls.Add(this.ddhoKey);
             this.Controls.Add(this.takaKey);
-            this.Controls.Add(this.button47);
-            this.Controls.Add(this.button48);
-            this.Controls.Add(this.button49);
+            this.Controls.Add(this.anusvaraModKey);
+            this.Controls.Add(this.eKey);
+            this.Controls.Add(this.ddoKey);
             this.Controls.Add(this.noyKey);
-            this.Controls.Add(this.button42);
-            this.Controls.Add(this.button43);
-            this.Controls.Add(this.button44);
-            this.Controls.Add(this.button45);
-            this.Controls.Add(this.button37);
+            this.Controls.Add(this.candravinduSignModKey);
+            this.Controls.Add(this.liiKey);
+            this.Controls.Add(this.tthoKey);
+            this.Controls.Add(this.liKey);
+            this.Controls.Add(this.raaKey);
             this.Controls.Add(this.atKey);
-            this.Controls.Add(this.button39);
-            this.Controls.Add(this.button40);
-            this.Controls.Add(this.button32);
-            this.Controls.Add(this.button34);
-            this.Controls.Add(this.button35);
-            this.Controls.Add(this.button27);
-            this.Controls.Add(this.button29);
-            this.Controls.Add(this.button30);
-            this.Controls.Add(this.button21);
-            this.Controls.Add(this.button22);
-            this.Controls.Add(this.button24);
-            this.Controls.Add(this.button25);
-            this.Controls.Add(this.button16);
-            this.Controls.Add(this.button17);
-            this.Controls.Add(this.button19);
-            this.Controls.Add(this.button11);
-            this.Controls.Add(this.button12);
-            this.Controls.Add(this.button14);
-            this.Controls.Add(this.button15);
-            this.Controls.Add(this.button6);
-            this.Controls.Add(this.button7);
-            this.Controls.Add(this.button9);
-            this.Controls.Add(this.button10);
-            this.Controls.Add(this.button5);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.ttoKey);
+            this.Controls.Add(this.riKey);
+            this.Controls.Add(this.raKey);
+            this.Controls.Add(this.noKey);
+            this.Controls.Add(this.uuKey);
+            this.Controls.Add(this.yoKey);
+            this.Controls.Add(this.dhoKey);
+            this.Controls.Add(this.uKey);
+            this.Controls.Add(this.rhoKey);
+            this.Controls.Add(this.doKey);
+            this.Controls.Add(this.iiKey);
+            this.Controls.Add(this.aaVowelSignModKey);
+            this.Controls.Add(this.roKey);
+            this.Controls.Add(this.thoKey);
+            this.Controls.Add(this.auTwoModKey);
+            this.Controls.Add(this.hoKey);
+            this.Controls.Add(this.toKey);
+            this.Controls.Add(this.iKey);
+            this.Controls.Add(this.vimraSignModKey);
+            this.Controls.Add(this.ssooKey);
+            this.Controls.Add(this.nnooKey);
+            this.Controls.Add(this.aaKey);
+            this.Controls.Add(this.auSignModKey);
+            this.Controls.Add(this.soKey);
+            this.Controls.Add(this.jhoKey);
+            this.Controls.Add(this.aKey);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form1";
             this.Text = "Bangla Keyboard";
@@ -1240,10 +1337,10 @@ namespace simpleBenglaKeyboardProject
 
         #endregion
 
-        private System.Windows.Forms.Button button26;
-        private System.Windows.Forms.Button button31;
-        private System.Windows.Forms.Button button75;
-        private System.Windows.Forms.Button button80;
+        private System.Windows.Forms.Button avagrahaKey;
+        private System.Windows.Forms.Button taKey;
+        private System.Windows.Forms.Button llSignModKey;
+        private System.Windows.Forms.Button lSignModKey;
         private System.Windows.Forms.Button eightKey;
         private System.Windows.Forms.Button sevenKey;
         private System.Windows.Forms.Button sixKey;
@@ -1252,85 +1349,84 @@ namespace simpleBenglaKeyboardProject
         private System.Windows.Forms.Button threeKey;
         private System.Windows.Forms.Button twoKey;
         private System.Windows.Forms.Button oneKey;
-        private System.Windows.Forms.Button button36;
+        private System.Windows.Forms.Button spaceKey;
         private System.Windows.Forms.Button zeroKey;
-        private System.Windows.Forms.Button button102;
-        private System.Windows.Forms.Button button103;
-        private System.Windows.Forms.Button button104;
-        private System.Windows.Forms.Button button105;
+        private System.Windows.Forms.Button oSignModKey;
+        private System.Windows.Forms.Button joKey;
+        private System.Windows.Forms.Button ssoKey;
+        private System.Windows.Forms.Button backSpaceKey;
         private System.Windows.Forms.Button nineKey;
-        private System.Windows.Forms.Button button92;
-        private System.Windows.Forms.Button button93;
-        private System.Windows.Forms.Button button94;
-        private System.Windows.Forms.Button button96;
-        private System.Windows.Forms.Button button97;
-        private System.Windows.Forms.Button button98;
-        private System.Windows.Forms.Button button99;
-        private System.Windows.Forms.Button button67;
-        private System.Windows.Forms.Button button68;
-        private System.Windows.Forms.Button button69;
-        private System.Windows.Forms.Button button71;
-        private System.Windows.Forms.Button button72;
-        private System.Windows.Forms.Button button73;
-        private System.Windows.Forms.Button button74;
-        private System.Windows.Forms.Button button76;
-        private System.Windows.Forms.Button button77;
-        private System.Windows.Forms.Button button78;
-        private System.Windows.Forms.Button button79;
-        private System.Windows.Forms.Button button81;
-        private System.Windows.Forms.Button button82;
-        private System.Windows.Forms.Button button83;
-        private System.Windows.Forms.Button button84;
-        private System.Windows.Forms.Button button87;
-        private System.Windows.Forms.Button button88;
-        private System.Windows.Forms.Button button89;
-        private System.Windows.Forms.Button button62;
-        private System.Windows.Forms.Button button63;
-        private System.Windows.Forms.Button test;
-        private System.Windows.Forms.Button button57;
-        private System.Windows.Forms.Button button58;
-        private System.Windows.Forms.Button button59;
-        private System.Windows.Forms.Button button52;
-        private System.Windows.Forms.Button button53;
-        private System.Windows.Forms.Button button54;
+        private System.Windows.Forms.Button aiSignModKey;
+        private System.Windows.Forms.Button choKey;
+        private System.Windows.Forms.Button loKey;
+        private System.Windows.Forms.Button closeKey;
+        private System.Windows.Forms.Button eSignModKey;
+        private System.Windows.Forms.Button coKey;
+        private System.Windows.Forms.Button rroKey;
+        private System.Windows.Forms.Button rrSignModKey;
+        private System.Windows.Forms.Button ngoKey;
+        private System.Windows.Forms.Button yyoKey;
+        private System.Windows.Forms.Button questionMarkKey;
+        private System.Windows.Forms.Button rSoundModKey;
+        private System.Windows.Forms.Button ghoKey;
+        private System.Windows.Forms.Button moKey;
+        private System.Windows.Forms.Button fullStopKey;
+        private System.Windows.Forms.Button uuSignModKey;
+        private System.Windows.Forms.Button goKey;
+        private System.Windows.Forms.Button bhoKey;
+        private System.Windows.Forms.Button riiKey;
+        private System.Windows.Forms.Button uSignModKey;
+        private System.Windows.Forms.Button khoKey;
+        private System.Windows.Forms.Button boKey;
+        private System.Windows.Forms.Button signTwoModKey;
+        private System.Windows.Forms.Button koKey;
+        private System.Windows.Forms.Button phoKey;
+        private System.Windows.Forms.Button signOneModKey;
+        private System.Windows.Forms.Button ouKey;
+        private System.Windows.Forms.Button poKey;
+        private System.Windows.Forms.Button naktaSignModKey;
+        private System.Windows.Forms.Button oKey;
+        private System.Windows.Forms.Button nnoKey;
+        private System.Windows.Forms.Button visargaModKey;
+        private System.Windows.Forms.Button oiKey;
+        private System.Windows.Forms.Button ddhoKey;
         private System.Windows.Forms.Button takaKey;
-        private System.Windows.Forms.Button button47;
-        private System.Windows.Forms.Button button48;
-        private System.Windows.Forms.Button button49;
+        private System.Windows.Forms.Button anusvaraModKey;
+        private System.Windows.Forms.Button eKey;
+        private System.Windows.Forms.Button ddoKey;
         private System.Windows.Forms.Button noyKey;
-        private System.Windows.Forms.Button button42;
-        private System.Windows.Forms.Button button43;
-        private System.Windows.Forms.Button button44;
-        private System.Windows.Forms.Button button45;
-        private System.Windows.Forms.Button button37;
+        private System.Windows.Forms.Button candravinduSignModKey;
+        private System.Windows.Forms.Button liiKey;
+        private System.Windows.Forms.Button tthoKey;
+        private System.Windows.Forms.Button liKey;
+        private System.Windows.Forms.Button raaKey;
         private System.Windows.Forms.Button atKey;
-        private System.Windows.Forms.Button button39;
-        private System.Windows.Forms.Button button40;
-        private System.Windows.Forms.Button button32;
-        private System.Windows.Forms.Button button34;
-        private System.Windows.Forms.Button button35;
-        private System.Windows.Forms.Button button27;
-        private System.Windows.Forms.Button button29;
-        private System.Windows.Forms.Button button30;
-        private System.Windows.Forms.Button button21;
-        private System.Windows.Forms.Button button22;
-        private System.Windows.Forms.Button button24;
-        private System.Windows.Forms.Button button25;
-        private System.Windows.Forms.Button button16;
-        private System.Windows.Forms.Button button17;
-        private System.Windows.Forms.Button button19;
-        private System.Windows.Forms.Button button11;
-        private System.Windows.Forms.Button button12;
-        private System.Windows.Forms.Button button14;
-        private System.Windows.Forms.Button button15;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.Button button9;
-        private System.Windows.Forms.Button button10;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button ttoKey;
+        private System.Windows.Forms.Button riKey;
+        private System.Windows.Forms.Button raKey;
+        private System.Windows.Forms.Button noKey;
+        private System.Windows.Forms.Button uuKey;
+        private System.Windows.Forms.Button yoKey;
+        private System.Windows.Forms.Button dhoKey;
+        private System.Windows.Forms.Button uKey;
+        private System.Windows.Forms.Button rhoKey;
+        private System.Windows.Forms.Button doKey;
+        private System.Windows.Forms.Button iiKey;
+        private System.Windows.Forms.Button aaVowelSignModKey;
+        private System.Windows.Forms.Button roKey;
+        private System.Windows.Forms.Button thoKey;
+        private System.Windows.Forms.Button auTwoModKey;
+        private System.Windows.Forms.Button hoKey;
+        private System.Windows.Forms.Button toKey;
+        private System.Windows.Forms.Button iKey;
+        private System.Windows.Forms.Button vimraSignModKey;
+        private System.Windows.Forms.Button ssooKey;
+        private System.Windows.Forms.Button nnooKey;
+        private System.Windows.Forms.Button aaKey;
+        private System.Windows.Forms.Button auSignModKey;
+        private System.Windows.Forms.Button soKey;
+        private System.Windows.Forms.Button jhoKey;
+        private System.Windows.Forms.Button aKey;
         private System.Windows.Forms.Button tinKey;
         private System.Windows.Forms.Button shatKey;
         private System.Windows.Forms.Button chchoyKey;
@@ -1339,6 +1435,7 @@ namespace simpleBenglaKeyboardProject
         private System.Windows.Forms.Button duiKey;
         private System.Windows.Forms.Button ekKey;
         private System.Windows.Forms.Button shoonnoKey;
+        private System.Windows.Forms.Button commaKey;
     }
 }
 
