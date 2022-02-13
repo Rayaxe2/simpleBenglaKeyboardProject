@@ -80,9 +80,14 @@ namespace simpleBenglaKeyboardProject
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void shoonnoKey_Click(object sender, EventArgs e)
         {
             SendKeys.Send("কঁ");
+        }
+
+        private void ekKey_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
