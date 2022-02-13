@@ -11,14 +11,14 @@ Accomplishments:
 Plans:
 - Change layout
   - Make buttons bigger
--- Get rid of redundancies, like the numbers - math is for the weak!
--- Add buttons that mother may want to use
--- Copy windows bangla keyboard layout maybe?
---- Allow users to navigate to more works instead of presenting them all in one place
--- Make UI scale to any common resolution
--- Make the colour changes for modes more intuative 
--- Maybe add a preview of what was written before pressing space in big letters 
--- Make Jukto works bicc'er
+  - Get rid of redundancies, like the numbers - math is for the weak!
+  - Add buttons that mother may want to use
+  - Copy windows bangla keyboard layout maybe?
+    - Allow users to navigate to more works instead of presenting them all in one place
+  - Make UI scale to any common resolution
+  - Make the colour changes for modes more intuative 
+  - Maybe add a preview of what was written before pressing space in big letters 
+  - Make Jukto works bicc'er
 - Prevent windows touch keyboard from going on top of it
 - Display more relevant and common Jukto sugguestion first 
--- Add side scroll to search
+  - Add side scroll to search
