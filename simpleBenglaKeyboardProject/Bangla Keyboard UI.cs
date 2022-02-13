@@ -77,7 +77,9 @@ namespace simpleBenglaKeyboardProject
 
             //Possitions keyboard at the bottom of the screen
             this.StartPosition = FormStartPosition.Manual;
-            this.Location = new Point(Screen.PrimaryScreen.WorkingArea.Width - this.Width, Screen.PrimaryScreen.WorkingArea.Height - this.Height);
+            //this.Location = new Point(Screen.PrimaryScreen.WorkingArea.Width - this.Width, Screen.PrimaryScreen.WorkingArea.Height - this.Height); //If task bar is at the bottom, this puts it above the task bar
+            this.Location = new Point(Screen.PrimaryScreen.WorkingArea.Width - this.Width, Screen.PrimaryScreen.Bounds.Height - this.Height); //This puts it right at the bottom, where the taskbar starts by default
+       
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -88,6 +90,12 @@ namespace simpleBenglaKeyboardProject
         private void shoonnoKey_Click(object sender, EventArgs e)
         {
             SendKeys.Send("০");
+        }
+
+        private void shoonnoKey_MouseEnter(object sender, EventArgs e)
+        {
+            shoonnoKey.BackColor = SystemColors.ButtonHighlight;
+            shoonnoKey.ForeColor = SystemColors.GradientInactiveCaption;
         }
 
         private void ekKey_Click(object sender, EventArgs e)
